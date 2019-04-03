@@ -22,9 +22,9 @@ twitter: tswetnam
 ### Today's Roadmap
 
 
-<span style="font-size: 80%; color:#F9FF33">Why we need reproducible methods for sUAS data processing, management, and research" </span> <!-- .element: class="fragment" -->
+<span style="font-size: 80%; color:#F9FF33">Why we need reproducible methods for sUAS data processing, management, and research </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#58FF33">Working in Cyberinfrastructure</span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33">Working with sUAS data in a cyberinfrastructure</span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#58FF33">Do all the things</span> <!-- .element: class="fragment" -->
 
@@ -32,18 +32,22 @@ twitter: tswetnam
 
 ## Big Data: useless or transformative?
 
-<span style="font-size: 80%; color:#F9FF33">"You can't do science with big data" </span> <!-- .element: class="fragment" -->
+<span style="font-size: 80%; color:#F9FF33">You can't do science with big data - anonymous senior scientist </span> <!-- .element: class="fragment" -->
+
+https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html
+
+---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png" width="1000"> <!-- .element: class="fragment" -->
 
 ---
 
-## Turning 0 and 1 into Wisdom
+## Turning 0s and 1s into Wisdom
 
-- <span style="font-size: 80%; color:#F9FF33">"Unstructured Data" <!-- .element: class="fragment" --> Binary, Unstructured <!-- .element: class="fragment" --> "Level 0" <!-- .element: class="fragment" --> Processing <!-- .element: class="fragment" -->
-- <span style="font-size: 80%; color:#F9FF33">"Structured Data" <!-- .element: class="fragment" --> Imagery with Metadata, Flight Logs, GPS Locations <!-- .element: class="fragment" --> "Level 1" <!-- .element: class="fragment" --> Cognition <!-- .element: class="fragment" -->
-- <span style="font-size: 80%; color:#F9FF33">"Information" <!-- .element: class="fragment" --> Classified layers <!-- .element: class="fragment" --> "Level 2" <!-- .element: class="fragment" --> Knowledge <!-- .element: class="fragment" -->
-- <span style="font-size: 80%; color:#F9FF33">"Knowledge" <!-- .element: class="fragment" --> Judgement <!-- .element: class="fragment" --> "Level 3-4" <!-- .element: class="fragment" --> Wisdom <!-- .element: class="fragment" -->
+- <span style="font-size: 80%; color:#F9FF33">Unstructured Data <!-- .element: class="fragment" --> Binary, Unstructured <!-- .element: class="fragment" --> Level 0 <!-- .element: class="fragment" --> Processing <!-- .element: class="fragment" -->
+- <span style="font-size: 80%; color:#F9FF33">Structured Data <!-- .element: class="fragment" --> Imagery with Metadata, Flight Logs, GPS Locations <!-- .element: class="fragment" --> Level 1 <!-- .element: class="fragment" --> Cognition <!-- .element: class="fragment" -->
+- <span style="font-size: 80%; color:#F9FF33">Information <!-- .element: class="fragment" --> Classified layers <!-- .element: class="fragment" --> Level 2 <!-- .element: class="fragment" --> Knowledge <!-- .element: class="fragment" -->
+- <span style="font-size: 80%; color:#F9FF33">Knowledge <!-- .element: class="fragment" --> Judgement <!-- .element: class="fragment" --> Levels 3-4 <!-- .element: class="fragment" --> Wisdom <!-- .element: class="fragment" -->
 
 ---
 
@@ -72,155 +76,10 @@ twitter: tswetnam
 
 +++
 
-## Which software should you use?
+## Which processing and analysis software should you use?
 <img src="assets/imagery/dreaming.png" width="500">
 
-+++
-### DOCKER
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2000px-Docker_%28container_engine%29_logo.svg.png" width="800">
-
-+++
-
-### Singularity
-<img src="https://www.sylabs.io/wp-content/uploads/2018/10/s-icon.png" height="200">
-
-+++
-
-## Choosing the right container
-
-- <span style="font-weight: bold; font-size: 80%; color:#55FF33">Find one that already exists on https://hub.docker.com/</span>
-- <span style="font-weight: bold; font-size: 80%; color:#F9FF33">Modify an existing container by adding new dependencies</span> 
-- <span style="font-weight: bold; font-size: 80%; color:#FF0000">Create your own from scratch</span>
-
-+++
-
-# Building your own Docker Containers
-
-+++
-## <span style="color: #e49436">Create a Dockerfile</span>
-<br>
-
-```shell
-FROM ubuntu:18.04
-MAINTAINER "Tyson Lee Swetnam" tswetnam@cyverse.org
-RUN apt-get update && apt-get install -y fortune cowsay lolcat
-ENV PATH=/usr/games:${PATH}
-ENV LC_ALL=C
-ENTRYPOINT fortune | cowsay | lolcat
-
-```
-
-@[1](FROM a image base, e.g. alpine, centos, debian, ubuntu, I use Ubuntu Bionic Beaver 18.04)
-@[2](Add in who the person was who created the container - not required)
-@[3](RUN a set of scripts, here an update and installation of three programs)
-@[4](Set the environment, adding the three new games to the PATH)
-@[5](Use the default language)
-@[6](the ENTRYPOINT is what will happen when the container is run)
-
-+++
-
-@title[DOCKER]
-
-## <span style="color: #e49436">Build your Docker container</span>
-<br>
-
-
-```shell
-$ sudo docker build -t tswetnam/cowsay:latest .
-$ docker run -it tswetnam/cowsay:latest 
-$ docker run --rm -it --entrypoint /bin/bash tswetnam/cowsay:latest 
-$ fortune | cowsay | lolcat
-$ docker push tswetnam/cowsay:latest
-
-Done!
-```
-
-@[1](Use `sudo` to build the image with a tag name)
-@[2](Run new image using the interactive and TTY flags)
-@[3](Start a bash shell inside the container - note: you're inside the container now)
-@[4](Run the programs from inside the container)
-@[5](Push your container to DockerHub)
-@[7](Done!)
-
-+++
-
-## Containers for HPC
-
-<img src="https://www.sylabs.io/wp-content/uploads/2018/10/s-icon.png" height="200">
-
-[Singularity](http://singularity.lbl.gov)
-
-+++
-
-<img src="https://www.sylabs.io/wp-content/uploads/2018/10/s-icon.png" height="200">
-
-- Shares the host environment and file system
-- Same username & `root` privilege inside container
-- Build your own image or use an existing Docker container
-
-+++
-
-## <span style="color: #e49436">Writing a Singularity file</span>
-<br>
-
-```shell
-BootStrap: docker
-From: ubuntu:18.04
-
-%help
-  "This container tells a joke" 
-%post
-  apt-get -y update
-  apt-get -y install fortune cowsay lolcat
-%environment
-  export LC_ALL=C
-  export PATH=/usr/games:$PATH
-%runscript
-  fortune | cowsay | lolcat
-```
-
-@[1](Select an image repository - could be `docker`, `shub`, or `yum`)
-@[2](Image hosted on Docker Hub - Ubuntu Bionic Beaver 18.04)
-@[4,5](`%help` is a simple help text)
-@[6,7,8](`%post` command runs Bash commands like `apt-get` to install dependencies or programs)
-@[9,10,11](`%environment` settings, exporting paths for where to look for the commands)
-@[12,13](`%runscript` execute scripts in the container)
-
-+++
-
-@title[Singularity]
-
-## <span style="color: #e49436">Build your Singularity Image</span>
-<br>
-
-```shell
-$ sudo singularity build cowsay.simg Singularity
-$ singularity run cowsay.simg
-$ singularity exec cowsay.simg fortune
-$ singularity shell cowsay.simg
-$ fortune | cowsay | lolcat
-$ singularity run docker://tswetnam/cowsay:latest
-
-Done!
-```
-
-@[1](Use `sudo` to build the image with your Singularity file)
-@[2](Run new image)
-@[3](Execute a program in the container)
-@[4](Start a bash shell inside the container - note: you're inside the container now)
-@[5](Run the programs)
-@[6](Pull the Docker version of the container and run it with Singularity!)
-@[8](Done!)
-
 ---
-
-# Any Questions before we move on?
-
----
-
-# Lessons Learned in building containers
-
-+++
 
 [Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
 
@@ -230,67 +89,40 @@ Done!
 
 +++
 
-## Building the "best" containers often takes time and experience
+## Building the "best" workflows and pipelines takes time and experience
 
 <img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="500">
 
 ---
 
-## Have Container(s), Will Travel
+## Have Pipelines, Will Travel
 
 <img src="https://rhystranter.files.wordpress.com/2016/11/studio-ghibli-howls-moving-castle.jpg" height="400">
 
 +++
 
-## Example Use Cases
+## Working with your sUAS data in Cyberinfrastructure
 
 +++
 
-<span style="font-weight: bold; font-size: 150%; color:#FF0000">Graphical User</span>
-
-- Works in Graphic User Interfaces (GUI) & with Integrated Development Environments (IDE) <!-- .element: class="fragment" -->
-  
-- Needs more computing power than their laptop <!-- .element: class="fragment" -->
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">Graphical User Interfaces</span>
+ 
+- Need more computing power than a laptop <!-- .element: class="fragment" -->
 
 - Cannot afford to buy a $5,000 workstation <!-- .element: class="fragment" -->
-
 
 ---?image=assets/imagery/dockerhub_ubuntu_xfce.png
 
 ---?image=assets/imagery/metashape.jpg
 +++
 
-<span style="font-weight: bold; font-size: 150%; color:#F0FF00">Power User</span>
+<span style="font-weight: bold; font-size: 150%; color:#F0FF00">Power Users</span>
 
 - Interest in scaling workflow beyond the laptop / desktop onto HPC and Cloud <!-- .element: class="fragment" -->
 
-+++
-
-<img src="assets/imagery/eemt_singularity.png.png">
-
-+++
-
-![Video](https://www.youtube.com/embed/yWXJU-Kqqyg)
-
-+++
-
-<span style="font-weight: bold; font-size: 150%; color:#FFAA00">Millions of Containers</span>
-
-- Leveraging containers for massively parallel computing <!-- .element: class="fragment" -->
-
-+++
-
-<img src="https://scitech.isi.edu/wordpress/wp-content/uploads/2016/06/pegasus-dark.png" height="200"> <img src="https://pegasus.isi.edu/wordpress/wp-content/uploads/2018/12/aj-models.png" height="200"> <img src="https://pegasus.isi.edu/wordpress/wp-content/uploads/2018/12/profile_1-220x150.jpg" height="200"> 
-
-<img src="https://pegasus.isi.edu/wordpress/wp-content/uploads/2017/05/ariella.dot_.png">
-
-3 million jobs = 7 million CPU hours = 1 PhD 
-
-[Read here about Ariella's work with OSG & Pegasus](https://pegasus.isi.edu/2018/12/10/pegasus-helped-ecology-and-evolutionary-biology-graduate-student-at-the-university-of-arizona-shed-light-on-human-population-history/) 
-
 ---
 
-# Working with containers in CyVerse
+# Working with your data in CyVerse
 
 +++
 
@@ -312,9 +144,6 @@ Done!
 
 +++
 
-### How can you use containers within CyVerse?
-
-+++
 
 ## [Atmosphere](https://cyverse.org/atmosphere)
 
@@ -344,12 +173,6 @@ Done!
 
 +++
 
-## Installing Popular Container software on CyVerse Atmosphere
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2000px-Docker_%28container_engine%29_logo.svg.png" height="150"><img src="https://www.sylabs.io/wp-content/uploads/2018/10/s-icon.png" height="150"><img src="http://jupyter.org/assets/hublogo.svg" height="150">
-
-+++
-
 @title[EZ Install]
 
 ## <span style="color: #e49436">EZ Install</span>
@@ -371,25 +194,24 @@ $ ezjh
 
 +++
 
-<img src="assets/imagery/Rlogonew.png" height="150"> <img src="https://www.rstudio.com/wp-content/uploads/2014/07/RStudio-Logo-Blue-Gradient.png" height="150">
+<img src="https://raw.githubusercontent.com/OpenDroneMap/OpenDroneMap/master/img/odm_image.png" height="150">
 
 ```shell
 $ ezd -p
 $ sudo usermod -aG docker $USER
 $ exit
-$ docker pull rocker/geospatial:latest
-$ docker run --rm -d -p 8787:8787 -e PASSWORD=password rocker/geospatial:latest
-
+$ docker pull opendronemap/node-opendronemap:latest
+$ docker run -d -p 3000:3000 opendronemap/node-opendronemap
 Done!
 
 ```
 
-@[1](install Docker and Portainer.io)
-@[2](change `sudo` privileges)
+@[1](install Docker and the Portainer.io - note the log output and the Portainer admin token)
+@[2](change privileges to run Docker without `sudo`) 
 @[3](exit and restart terminal window)
-@[4](pull the latest version of Rocker Geospatial RStudio-Server from DockerHub)
-@[5](Run the Container in detached mode `-d` on port `-p 8787:8787`)
-@[7](Runs RStudio-Server in the background, open it in a new browser tab)
+@[4](pull the latest version of Node OpenDroneMap)
+@[5](Run the Container in `-d` detached mode on port `-p 3000:3000`)
+@[7](Open the Node OpenDroneMap in a new browser tab on the VM IP on port :3000)
 
 +++
 
@@ -408,14 +230,6 @@ Done!
 
 +++
 
-Bring your own Docker Containers into the Discovery Environment
-
-[Devisetty et al. 2016](https://f1000research.com/articles/5-1442/v1)
-
-<img src="https://f1000researchdata.s3.amazonaws.com/manuscripts/9614/e8fc9784-bed0-46bd-abc4-e070165a0c78_figure2.gif" height="400">
-
-+++
-
 ### Visual Interactive Computing Environment (VICE)
 
 <img src="assets/imagery/vice.png" width="500">
@@ -425,6 +239,33 @@ Bring your own Docker Containers into the Discovery Environment
 <img src="assets/imagery/vice_diagram_small.png" width="800">
 
 ---
+
+---
+
+# Hosting and Publishing Data with CyVerse
+
+---
+
+## [DataCommons](http://datacommons.cyverse.org/)
+
+<img src="assets/imagery/DataCommons_White.png" height="200">
+
+- Easily share your data with your community members, and the public.
+- "CyVerse Curated" data get a DOI
+- "Community Released" data are living shared data
+- Advantages over enterprise solutions
+
+---
+
+# Moving Data
+
+- iRODS iCommands (CLI)
+- WebDav (HTTPS)
+- Discovery Environment 
+- CyberDuck
+
+---
+
 
 ### Want to learn more?
 
@@ -438,16 +279,7 @@ Bring your own Docker Containers into the Discovery Environment
 
 +++
 
-### Container Camp
-
-#### March 6-8, 2019
-##### Location: University of Arizona, Tucson AZ
-
-https://www.cyverse.org/cc
-
-+++
-
-### Foundational Open Science Skills (FOSS)
+### Upcoming event: Foundational Open Science Skills (FOSS)
 #### June 3–14, 2019
 ##### Location: University of Arizona, Tucson AZ
 
@@ -459,11 +291,6 @@ https://www.cyverse.org/foss
 
 ## Acknowledgments
 
-Thank you David Godlove & Sylabs for the fortune telling cows.
-
-Thanks Julian Pistorius, Upendra Devisetty, and Nirav Merchant (CyVerse) for slide help.
-
-Thanks Mats Rynge (ISI), XSEDE, & the OpenScienceGrid. 
 
 ---?image=assets/imagery/endslide.png
 
