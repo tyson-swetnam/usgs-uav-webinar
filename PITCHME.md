@@ -32,11 +32,9 @@ twitter: tswetnam
 
 ## Big Data: useless or transformative?
 
-<span style="font-size: 80%; color:#F9FF33">"We don't need another widget" </span> <!-- .element: class="fragment" -->
-
 <span style="font-size: 80%; color:#F9FF33">"You can't do science with big data" </span> <!-- .element: class="fragment" -->
 
-<img src="https://en.wikipedia.org/wiki/Hype_cycle#/media/File:Gartner_Hype_Cycle.svg" width="900"> <!-- .element: class="fragment" -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png" width="1000"> <!-- .element: class="fragment" -->
 
 ---
 
