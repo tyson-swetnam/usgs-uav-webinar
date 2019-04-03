@@ -37,9 +37,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ## Big Data: useless or transformative?
 
-["How big data has created a crices in Science"] (https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html)
+[How big data has created a crisis in Science](https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html)
 
-<span style="font-size: 100%; color:#F9FF33"> Big data does not equal science - Anonymous senior-scientist </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#F9FF33"> Big data does not equal science </span> <!-- .element: class="fragment" -->  <span style="font-size: 80%; color:#FF0000"> - Anonymous senior-scientist </span> <!-- .element: class="fragment" -->
 
 ---?image=http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 
@@ -212,7 +212,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
   up to 
   - 16 CPU, 128GB RAM, 1400GB Disk
 - Attach (and swap) external storage volumes    
-- emulated web shell and desktop via [Apache _Guacamole_](https://guacamole.incubator.apache.org/)  
+- emulated web shell and desktop via [Apache _Guacamole](https://guacamole.incubator.apache.org/)  
 
 
 +++
