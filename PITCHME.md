@@ -43,22 +43,26 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 ---?image=http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 
----?image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png
++++
+
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png)
 
 +++
 
-## Turning 0s and 1s into Wisdom
+<span style="font-size: 100%; color:#F9FF33"> Unstructured Data <!-- .element: class="fragment" --> 
+<span style="font-size: 80%; color:#FF0000"> Binary, Unstructured <!-- .element: class="fragment" --> 
+<span style="font-size: 80%; color:#FFFFFF"> Level 0 <!-- .element: class="fragment" --> 
+<span style="font-size: 80%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 80%; color:#F9FF33"> -> Structured Data <!-- .element: class="fragment" --> 
 
-- <span style="font-size: 80%; color:#F9FF33"> Unstructured Data <!-- .element: class="fragment" --> 
-    - <span style="font-size: 80%; color:#FF0000"> Binary, Unstructured <!-- .element: class="fragment" --> 
-    - <span style="font-size: 80%; color:#FFFFFF"> Level 0 <!-- .element: class="fragment" --> Processing <!-- .element: class="fragment" -->
-- <span style="font-size: 80%; color:#F9FF33">Structured Data <!-- .element: class="fragment" --> Imagery with Metadata, Flight Logs, GPS Locations <!-- .element: class="fragment" --> Level 1 <!-- .element: class="fragment" --> Cognition <!-- .element: class="fragment" -->
+- <span style="font-size: 80%; color:#FF0000"> Imagery with Metadata, Flight Logs, GPS Locations <!-- .element: class="fragment" --> 
+    - <span style="font-size: 80%; color:#FFFFFF"> Level 1 <!-- .element: class="fragment" --> 
+    Cognition <!-- .element: class="fragment" -->
 - <span style="font-size: 80%; color:#F9FF33">Information <!-- .element: class="fragment" --> Classified layers <!-- .element: class="fragment" --> Level 2 <!-- .element: class="fragment" --> Knowledge <!-- .element: class="fragment" -->
 - <span style="font-size: 80%; color:#F9FF33">Knowledge <!-- .element: class="fragment" --> Judgement <!-- .element: class="fragment" --> Levels 3-4 <!-- .element: class="fragment" --> Wisdom <!-- .element: class="fragment" -->
 
 +++
 
-## Pitfalls when working in bespoke software and environments
+## Pitfalls while working in bespoke software and environments
 
 +++
 
@@ -68,7 +72,7 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 +++
 
-## Solution: Containerize the software, run it anywhere. 
+## Solution: Containerize software, run it anywhere. 
 
 <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" width="400"> <!-- .element: class="fragment" -->
 
@@ -83,7 +87,7 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 +++
 
-## Which processing and analysis software should you use?
+## Deciding which UAV processing and analysis software should you use?
 <img src="assets/imagery/dreaming.png" width="500">
 
 +++
@@ -98,11 +102,15 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 ## Building the "best" workflows and pipelines takes time and experience
 
-<img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="500">
+<img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
 
----?image=assets/imagery/sUAS_pipeline.jpg
++++
 
----?image=assets/imagery/workflow_calliope_clowder.jpg
+![image](assets/imagery/sUAS_pipeline.jpg)
+
++++
+
+![image](assets/imagery/workflow_calliope_clowder.jpg)
 
 ---
 
