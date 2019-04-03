@@ -23,9 +23,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 # Today's Roadmap
 
----
++++
 
-<span style="font-size: 100%; color:#58FF33">Work with sUAS data in cyberinfrastructure</span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33"> Work with sUAS data in cyberinfrastructure </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#F9FF33">Reproducible techniques for data processing & data management </span> <!-- .element: class="fragment" -->
 
@@ -45,7 +45,7 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 ---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png
 
----
++++
 
 ## Turning 0s and 1s into Wisdom
 
@@ -56,7 +56,7 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 - <span style="font-size: 80%; color:#F9FF33">Information <!-- .element: class="fragment" --> Classified layers <!-- .element: class="fragment" --> Level 2 <!-- .element: class="fragment" --> Knowledge <!-- .element: class="fragment" -->
 - <span style="font-size: 80%; color:#F9FF33">Knowledge <!-- .element: class="fragment" --> Judgement <!-- .element: class="fragment" --> Levels 3-4 <!-- .element: class="fragment" --> Wisdom <!-- .element: class="fragment" -->
 
----
++++
 
 ## Pitfalls when working in bespoke software and environments
 
@@ -86,7 +86,7 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 ## Which processing and analysis software should you use?
 <img src="assets/imagery/dreaming.png" width="500">
 
----
++++
 
 [Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
 
@@ -100,15 +100,25 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 <img src="https://consequenceofsound.files.wordpress.com/2016/04/screen-shot-2016-04-08-at-10-33-51-am.png" width="500">
 
+---?image=assets/imagery/sUAS_pipeline.jpg
+
+---?image=assets/imagery/workflow_calliope_clowder.jpg
+
 ---
 
-## Have Pipelines, Will Travel
+## Have Workflow, Will Travel
 
 <img src="https://rhystranter.files.wordpress.com/2016/11/studio-ghibli-howls-moving-castle.jpg" height="400">
 
 +++
 
-## Working with your sUAS data in Cyberinfrastructure
+## Working with sUAS data in Cyberinfrastructure
+
+<img src="assets/imagery/calliope_logo.png" width="400">
+
++++
+
+---?image=assets/imagery/SfM-MVS-Clowder.jpg
 
 +++
 
