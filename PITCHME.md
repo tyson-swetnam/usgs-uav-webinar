@@ -49,10 +49,13 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 +++
 
-<span style="font-size: 100%; color:#F9FF33"> Unstructured Data <!-- .element: class="fragment" --> 
-<span style="font-size: 80%; color:#FF0000"> Binary, Unstructured <!-- .element: class="fragment" --> 
-<span style="font-size: 80%; color:#FFFFFF"> Level 0 <!-- .element: class="fragment" --> 
-<span style="font-size: 80%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 80%; color:#F9FF33"> -> Structured Data <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
+    <span style="font-size: 80%; color:#FF0000"> Binary & Unstructured <!-- .element: class="fragment" --> 
+        <span style="font-size: 100%; color:#FFFFFF"> = "Level 0" data product <!-- .element: class="fragment" --> 
+
+<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Structured Data <!-- .element: class="fragment" --> 
+
++++
 
 - <span style="font-size: 80%; color:#FF0000"> Imagery with Metadata, Flight Logs, GPS Locations <!-- .element: class="fragment" --> 
     - <span style="font-size: 80%; color:#FFFFFF"> Level 1 <!-- .element: class="fragment" --> 
