@@ -49,9 +49,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-<span style="font-size: 150%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
     <span style="font-size: 80%; color:#FF0000"> (Binary & Unstructured) <!-- .element: class="fragment" --> 
-        <span style="font-size: 120%; color:#FFFFFF"> = "Level 0" data product <!-- .element: class="fragment" --> 
+        <span style="font-size: 100%; color:#FFFFFF"> = "Level 0" data product <!-- .element: class="fragment" --> 
 
 <span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Structured Data <!-- .element: class="fragment" --> 
 
@@ -65,18 +65,18 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-<span style="font-size: 200%; color:#F9FF33"> Information <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Information <!-- .element: class="fragment" --> 
     <span style="font-size: 80%; color:#FF0000"> (e.g. Classified layers w/ metadata) <!-- .element: class="fragment" --> 
         <span style="font-size: 100%; color:#FFFFFF"> = "Level 3" data product <!-- .element: class="fragment" --> 
 
-<span style="font-size: 200%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#F9FF33"> -> Knowledge <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Knowledge <!-- .element: class="fragment" --> 
 
 +++
 
 <span style="font-size: 100%; color:#F9FF33"> Knowledge <!-- .element: class="fragment" --> 
     <span style="font-size: 80%; color:#FF0000"> (Process, Mechanism) <!-- .element: class="fragment" --> 
         
-<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Decision Making <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Judgement & Decision Making <!-- .element: class="fragment" --> 
 
 +++
 
@@ -126,7 +126,6 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 <img src="assets/imagery/sUAS_pipeline.jpg" width="1200">
 
-
 +++
 
 <img src="assets/imagery/workflow_calliope_clowder.png" width="1200">
@@ -136,6 +135,14 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 ## Have Workflow, Will Travel
 
 <img src="https://rhystranter.files.wordpress.com/2016/11/studio-ghibli-howls-moving-castle.jpg" height="400">
+
++++
+
+## Why are we automating this stuff?
+
+<span style="font-size: 100%; color:#F9FF33"> Good programmers are hard working. <!-- .element: class="fragment" --> 
+    
+<span style="font-size: 100%; color:#FF0000"> _Great_ programmers are lazy. <!-- .element: class="fragment" --> 
 
 +++
 
