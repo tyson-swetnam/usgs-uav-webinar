@@ -109,11 +109,12 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 +++
 
-![image](assets/imagery/sUAS_pipeline.jpg)
+<img src="assets/imagery/sUAS_pipeline.jpg" width="1200">
+
 
 +++
 
-![image](assets/imagery/workflow_calliope_clowder.jpg)
+<img src="assets/imagery/workflow_calliope_clowder.png" width="1200">
 
 ---
 
@@ -129,7 +130,7 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 +++
 
----?image=assets/imagery/SfM-MVS-Clowder.jpg
+<img src="assets/imagery/SfM-MVS-Clowder.jpg" width="1200">
 
 +++
 
