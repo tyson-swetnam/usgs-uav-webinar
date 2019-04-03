@@ -1,8 +1,8 @@
 ---
 
-<span style="font-weight: bold; font-size: 170%; color:#FFFF00">Going Places with Your Container(s)</span>
+<span style="font-weight: bold; font-size: 170%; color:#FFFF00">Droning on about sUAS data pipelines, processing, and reproducible research</span> 
 
-February 8, 2019
+April 5, 2019
 #### Tyson Lee Swetnam Ph.D.
 <img src="assets/imagery/cyverse_white.png" width="500">
 
@@ -22,19 +22,32 @@ twitter: tswetnam
 ### Today's Roadmap
 
 
-<span style="font-size: 80%; color:#F9FF33">Review of two weeks ago: "Make Your Life (and Analyses) Easier with Containers" </span> <!-- .element: class="fragment" -->
+<span style="font-size: 80%; color:#F9FF33">Why we need reproducible methods for sUAS data processing, management, and research" </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#58FF33">Building your own container</span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33">Working in Cyberinfrastructure</span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#58FF33">Have Container(s), Will travel </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33">Do all the things</span> <!-- .element: class="fragment" -->
 
 ---
 
-### [Make your life and analyses easier with Containers](https://github.com/julianpistorius/presentation-containers-intro)
+## Big Data: useless or transformative?
 
-#### Presented by Julian Pistorius
+<span style="font-size: 80%; color:#F9FF33">"We don't need another widget" </span> <!-- .element: class="fragment" -->
 
-+++   
+<span style="font-size: 80%; color:#F9FF33">"You can't do science with big data" </span> <!-- .element: class="fragment" -->
+
+<img src="https://en.wikipedia.org/wiki/Hype_cycle#/media/File:Gartner_Hype_Cycle.svg" width="900"> <!-- .element: class="fragment" -->
+
+---
+
+## Turning 0 and 1 into Wisdom
+
+- <span style="font-size: 80%; color:#F9FF33">"Unstructured Data" <!-- .element: class="fragment" --> Binary, Unstructured <!-- .element: class="fragment" --> "Level 0" <!-- .element: class="fragment" --> Processing <!-- .element: class="fragment" -->
+- <span style="font-size: 80%; color:#F9FF33">"Structured Data" <!-- .element: class="fragment" --> Imagery with Metadata, Flight Logs, GPS Locations <!-- .element: class="fragment" --> "Level 1" <!-- .element: class="fragment" --> Cognition <!-- .element: class="fragment" -->
+- <span style="font-size: 80%; color:#F9FF33">"Information" <!-- .element: class="fragment" --> Classified layers <!-- .element: class="fragment" --> "Level 2" <!-- .element: class="fragment" --> Knowledge <!-- .element: class="fragment" -->
+- <span style="font-size: 80%; color:#F9FF33">"Knowledge" <!-- .element: class="fragment" --> Judgement <!-- .element: class="fragment" --> "Level 3-4" <!-- .element: class="fragment" --> Wisdom <!-- .element: class="fragment" -->
+
+---
 
 ## Pitfalls when working in bespoke software and environments
 
