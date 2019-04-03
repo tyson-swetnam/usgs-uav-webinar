@@ -22,9 +22,9 @@ twitter: tswetnam
 ### Today's Roadmap
 
 
-<span style="font-size: 80%; color:#F9FF33">Why we need reproducible methods for sUAS data processing, management, and research </span> <!-- .element: class="fragment" -->
-
 <span style="font-size: 100%; color:#58FF33">Working with sUAS data in a cyberinfrastructure</span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 80%; color:#F9FF33">Reproducible methods for sUAS data processing, management, and research </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#58FF33">Do all the things</span> <!-- .element: class="fragment" -->
 
@@ -38,11 +38,11 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 ---
 
----?image=<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png">
+<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png">
 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png" width="1000"> <!-- .element: class="fragment" -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png" width="1000"> 
 
 ---
 
