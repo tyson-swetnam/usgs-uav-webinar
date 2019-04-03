@@ -36,6 +36,9 @@ twitter: tswetnam
 
 https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html
 
+---?<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
+">
+
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png" width="1000"> <!-- .element: class="fragment" -->
