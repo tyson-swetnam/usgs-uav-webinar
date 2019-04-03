@@ -19,14 +19,17 @@ twitter: tswetnam
 
 ---
 
-### Today's Roadmap
+# Today's Roadmap
 
+---
 
-<span style="font-size: 100%; color:#58FF33">Working with sUAS data in a cyberinfrastructure</span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33">Work with sUAS data in cyberinfrastructure</span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 80%; color:#F9FF33">Reproducible methods for sUAS data processing, management, and research </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#58FF33">Do all the things</span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33"> Do all the things </span> <!-- .element: class="fragment" -->
+
+<img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="400"> <!-- .element: class="fragment" -->
 
 ---
 
@@ -36,19 +39,17 @@ twitter: tswetnam
 
 https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html
 
----
+---?image=http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 
-<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png">
-
----
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png" width="1000"> 
+---?image=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png
 
 ---
 
 ## Turning 0s and 1s into Wisdom
 
-- <span style="font-size: 80%; color:#F9FF33">Unstructured Data <!-- .element: class="fragment" --> Binary, Unstructured <!-- .element: class="fragment" --> Level 0 <!-- .element: class="fragment" --> Processing <!-- .element: class="fragment" -->
+- <span style="font-size: 80%; color:#F9FF33"> Unstructured Data <!-- .element: class="fragment" --> 
+    - <span style="font-size: 80%; color:#FF0000"> Binary, Unstructured <!-- .element: class="fragment" --> 
+    - <span style="font-size: 80%; color:#FFFFFF"> Level 0 <!-- .element: class="fragment" --> Processing <!-- .element: class="fragment" -->
 - <span style="font-size: 80%; color:#F9FF33">Structured Data <!-- .element: class="fragment" --> Imagery with Metadata, Flight Logs, GPS Locations <!-- .element: class="fragment" --> Level 1 <!-- .element: class="fragment" --> Cognition <!-- .element: class="fragment" -->
 - <span style="font-size: 80%; color:#F9FF33">Information <!-- .element: class="fragment" --> Classified layers <!-- .element: class="fragment" --> Level 2 <!-- .element: class="fragment" --> Knowledge <!-- .element: class="fragment" -->
 - <span style="font-size: 80%; color:#F9FF33">Knowledge <!-- .element: class="fragment" --> Judgement <!-- .element: class="fragment" --> Levels 3-4 <!-- .element: class="fragment" --> Wisdom <!-- .element: class="fragment" -->
