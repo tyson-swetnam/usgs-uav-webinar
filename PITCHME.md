@@ -49,19 +49,19 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-<span style="font-size: 200%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
+<span style="font-size: 150%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
     <span style="font-size: 80%; color:#FF0000"> (Binary & Unstructured) <!-- .element: class="fragment" --> 
-        <span style="font-size: 100%; color:#FFFFFF"> = "Level 0" data product <!-- .element: class="fragment" --> 
+        <span style="font-size: 120%; color:#FFFFFF"> = "Level 0" data product <!-- .element: class="fragment" --> 
 
-<span style="font-size: 200%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#F9FF33"> -> Structured Data <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Structured Data <!-- .element: class="fragment" --> 
 
 +++
 
-<span style="font-size: 200%; color:#F9FF33"> Structured Data <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Structured Data <!-- .element: class="fragment" --> 
     <span style="font-size: 80%; color:#FF0000"> (e.g. Imagery w/ metadata, Flight Logs, GPS Locations ) <!-- .element: class="fragment" --> 
         <span style="font-size: 100%; color:#FFFFFF"> = "Level 1" data product <!-- .element: class="fragment" --> 
 
-<span style="font-size: 200%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#F9FF33"> -> Information <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Information <!-- .element: class="fragment" --> 
 
 +++
 
@@ -73,10 +73,10 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-<span style="font-size: 200%; color:#F9FF33"> Knowledge <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Knowledge <!-- .element: class="fragment" --> 
     <span style="font-size: 80%; color:#FF0000"> (Process, Mechanism) <!-- .element: class="fragment" --> 
         
-<span style="font-size: 200%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#F9FF33"> -> Decision Making <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Decision Making <!-- .element: class="fragment" --> 
 
 +++
 
