@@ -9,13 +9,15 @@ April 5, 2019
 
 +++
 
-### My Contact Info
+### Contact Info
 
 email: tswetnam@cyverse.org
 
 github id: [tyson-swetnam](https://github.com/tyson-swetnam) & [cyverse-gis](https://github.com/cyverse-gis)
 
-twitter: tswetnam
+twitter: @tswetnam
+
+talk link: https://github.com/cyverse-gis/uav-webinar/ 
 
 ---
 
@@ -25,11 +27,11 @@ twitter: tswetnam
 
 <span style="font-size: 100%; color:#58FF33">Work with sUAS data in cyberinfrastructure</span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 80%; color:#F9FF33">Reproducible methods for sUAS data processing, management, and research </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#F9FF33">Reproducible techniques for data processing & data management </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#58FF33"> Do all the things </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#FF0000"> Do all the things </span> <!-- .element: class="fragment" -->
 
-<img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="400"> <!-- .element: class="fragment" -->
+<img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> <!-- .element: class="fragment" -->
 
 ---
 
