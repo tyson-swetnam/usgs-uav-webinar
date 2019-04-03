@@ -38,8 +38,7 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 ---
 
----?image=<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
-">
+---?image=<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png">
 
 ---
 
