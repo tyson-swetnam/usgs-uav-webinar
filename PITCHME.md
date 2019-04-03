@@ -32,11 +32,13 @@ twitter: tswetnam
 
 ## Big Data: useless or transformative?
 
-<span style="font-size: 80%; color:#F9FF33">You can't do science with big data - anonymous senior scientist </span> <!-- .element: class="fragment" -->
+<span style="font-size: 80%; color:#F9FF33">You can't do science with big data - anonymous senior-scientist </span> <!-- .element: class="fragment" -->
 
 https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html
 
----?<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
+---
+
+---?image=<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 ">
 
 ---
