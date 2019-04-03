@@ -37,9 +37,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ## Big Data: useless or transformative?
 
-<span style="font-size: 80%; color:#F9FF33">You can't do science with big data - anonymous senior-scientist </span> <!-- .element: class="fragment" -->
+["How big data has created a crices in Science"] (https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html)
 
-https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html
+<span style="font-size: 100%; color:#F9FF33"> Big data does not equal science - Anonymous senior-scientist </span> <!-- .element: class="fragment" -->
 
 ---?image=http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 
@@ -49,19 +49,34 @@ https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_
 
 +++
 
-<span style="font-size: 100%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
-    <span style="font-size: 80%; color:#FF0000"> Binary & Unstructured <!-- .element: class="fragment" --> 
+<span style="font-size: 200%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
+    <span style="font-size: 80%; color:#FF0000"> (Binary & Unstructured) <!-- .element: class="fragment" --> 
         <span style="font-size: 100%; color:#FFFFFF"> = "Level 0" data product <!-- .element: class="fragment" --> 
 
-<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Structured Data <!-- .element: class="fragment" --> 
+<span style="font-size: 200%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#F9FF33"> -> Structured Data <!-- .element: class="fragment" --> 
 
 +++
 
-- <span style="font-size: 80%; color:#FF0000"> Imagery with Metadata, Flight Logs, GPS Locations <!-- .element: class="fragment" --> 
-    - <span style="font-size: 80%; color:#FFFFFF"> Level 1 <!-- .element: class="fragment" --> 
-    Cognition <!-- .element: class="fragment" -->
-- <span style="font-size: 80%; color:#F9FF33">Information <!-- .element: class="fragment" --> Classified layers <!-- .element: class="fragment" --> Level 2 <!-- .element: class="fragment" --> Knowledge <!-- .element: class="fragment" -->
-- <span style="font-size: 80%; color:#F9FF33">Knowledge <!-- .element: class="fragment" --> Judgement <!-- .element: class="fragment" --> Levels 3-4 <!-- .element: class="fragment" --> Wisdom <!-- .element: class="fragment" -->
+<span style="font-size: 200%; color:#F9FF33"> Structured Data <!-- .element: class="fragment" --> 
+    <span style="font-size: 80%; color:#FF0000"> (e.g. Imagery w/ metadata, Flight Logs, GPS Locations ) <!-- .element: class="fragment" --> 
+        <span style="font-size: 100%; color:#FFFFFF"> = "Level 1" data product <!-- .element: class="fragment" --> 
+
+<span style="font-size: 200%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#F9FF33"> -> Information <!-- .element: class="fragment" --> 
+
++++
+
+<span style="font-size: 200%; color:#F9FF33"> Information <!-- .element: class="fragment" --> 
+    <span style="font-size: 80%; color:#FF0000"> (e.g. Classified layers w/ metadata) <!-- .element: class="fragment" --> 
+        <span style="font-size: 100%; color:#FFFFFF"> = "Level 3" data product <!-- .element: class="fragment" --> 
+
+<span style="font-size: 200%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#F9FF33"> -> Knowledge <!-- .element: class="fragment" --> 
+
++++
+
+<span style="font-size: 200%; color:#F9FF33"> Knowledge <!-- .element: class="fragment" --> 
+    <span style="font-size: 80%; color:#FF0000"> (Process, Mechanism) <!-- .element: class="fragment" --> 
+        
+<span style="font-size: 200%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 200%; color:#F9FF33"> -> Decision Making <!-- .element: class="fragment" --> 
 
 +++
 
