@@ -42,7 +42,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 <span style="font-size: 80%; color:#FF0000"> -- Anonymous senior-researcher </span> <!-- .element: class="fragment" -->
 
----?image=http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
++++
+
+<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png" height="1000">
 
 @snap[south raleway-medium span-55] Source: Matt Turck, 2018, http://mattturck.com @snapend
 
@@ -57,7 +59,7 @@ Source: Wikipedia, Gartner Inc. Hype Cycle
     <span style="font-size: 80%; color:#FF0000"> (Binary & Unstructured) <!-- .element: class="fragment" --> 
         <span style="font-size: 100%; color:#FFFFFF"> = "Level 0" data product <!-- .element: class="fragment" --> 
 
-<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Structured Data <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Structured Data <!-- .element: class="fragment" --> 
 
 +++
 
@@ -65,7 +67,7 @@ Source: Wikipedia, Gartner Inc. Hype Cycle
     <span style="font-size: 80%; color:#FF0000"> (e.g. Imagery w/ metadata, Flight Logs, GPS Locations ) <!-- .element: class="fragment" --> 
         <span style="font-size: 100%; color:#FFFFFF"> = "Level 1" data product <!-- .element: class="fragment" --> 
 
-<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Information <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Information <!-- .element: class="fragment" --> 
 
 +++
 
@@ -73,14 +75,14 @@ Source: Wikipedia, Gartner Inc. Hype Cycle
     <span style="font-size: 80%; color:#FF0000"> (e.g. Classified layers w/ metadata) <!-- .element: class="fragment" --> 
         <span style="font-size: 100%; color:#FFFFFF"> = "Level 3" data product <!-- .element: class="fragment" --> 
 
-<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Knowledge <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Knowledge <!-- .element: class="fragment" --> 
 
 +++
 
 <span style="font-size: 100%; color:#F9FF33"> Knowledge <!-- .element: class="fragment" --> 
     <span style="font-size: 80%; color:#FF0000"> (Process, Mechanism) <!-- .element: class="fragment" --> 
         
-<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> -> Judgement & Decision Making <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Judgement & Decision Making <!-- .element: class="fragment" --> 
 
 +++
 
@@ -88,7 +90,7 @@ Source: Wikipedia, Gartner Inc. Hype Cycle
 
 +++
 
-*different OS + third party software + updates/upgrades + redeployment* = 
+*different OS + third party software + updates/upgrades + redeployment* → 
  <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_</span> <!-- .element: class="fragment" -->
  
 <img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="fragment" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="fragment" -->
