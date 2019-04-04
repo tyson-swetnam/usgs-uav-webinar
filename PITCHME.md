@@ -127,6 +127,9 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 <img src="https://droneparts.de/media/image/fb/bb/03/Metashape_logo_.jpg" width="150">
 <img src="https://uasweekly.com/wp-content/uploads/2017/06/Flyt-base-logo-1-copy.jpg" width="150">
 <img src="https://d3pcsg2wjq9izr.cloudfront.net/files/51634/images/1.FarmersEdge-400.png" width="150">
+<img src="http://jttaylor.net/gis/drone2map/images/drone2map-icon.jpg" width="150">
+<img src="http://www.customerbliss.com/wp-content/uploads/2016/06/Esri-Logo-Compact.png" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/1280px-QGIS_logo%2C_2017.svg.png" width="150">
 
 <img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" width="150">
 <img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" width="150">
