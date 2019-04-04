@@ -44,7 +44,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ---?image=http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 
-Source: Matt Turck, 2018, http://mattturck.com
+@snap[south raleway-medium span-55] Source: Matt Turck, 2018, http://mattturck.com @snapend
 
 +++
 
