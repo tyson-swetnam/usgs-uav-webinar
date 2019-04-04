@@ -6,7 +6,6 @@ April 5, 2019
 #### Tyson Lee Swetnam Ph.D.
 <img src="assets/imagery/cyverse_white.png" width="500">
 
-
 +++
 
 ### Contact Info
@@ -39,9 +38,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 [How big data has created a crisis in Science](https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html)
 
-<span style="font-size: 150%; color:#F9FF33"> "Big data \neq science" </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#F9FF33"> "Big data ≠ science" </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 80%; color:#FF0000"> Anonymous senior-researcher </span> <!-- .element: class="fragment" -->
+<span style="font-size: 80%; color:#FF0000"> -- Anonymous senior-researcher </span> <!-- .element: class="fragment" -->
 
 ---?image=http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 
@@ -114,16 +113,16 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-<img src="https://pbs.twimg.com/media/Czf37xpWIAIc1-M.jpg" width="100">
-<img src="https://www.integraldrones.com.au/wp-content/uploads/2016/06/Drone-deploy-image-2.jpg" width="100">
-<img src="http://store.jdrones.com/v/vspfiles/photos/swpix4dpro01-2.jpg" width="100">
-<img src="https://droneparts.de/media/image/fb/bb/03/Metashape_logo_.jpg" width="100">
-<img src="https://uasweekly.com/wp-content/uploads/2017/06/Flyt-base-logo-1-copy.jpg" width="100">
-<img src="https://d3pcsg2wjq9izr.cloudfront.net/files/51634/images/1.FarmersEdge-400.png" width="100">
+<img src="https://pbs.twimg.com/media/Czf37xpWIAIc1-M.jpg" width="150">
+<img src="https://www.integraldrones.com.au/wp-content/uploads/2016/06/Drone-deploy-image-2.jpg" width="150">
+<img src="http://store.jdrones.com/v/vspfiles/photos/swpix4dpro01-2.jpg" width="150">
+<img src="https://droneparts.de/media/image/fb/bb/03/Metashape_logo_.jpg" width="150">
+<img src="https://uasweekly.com/wp-content/uploads/2017/06/Flyt-base-logo-1-copy.jpg" width="150">
+<img src="https://d3pcsg2wjq9izr.cloudfront.net/files/51634/images/1.FarmersEdge-400.png" width="150">
 
-<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" width="100">
-<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" width="100">
-<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" width="100">
+<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" width="150">
+<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" width="150">
+<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" width="150">
 
 +++
 
@@ -136,7 +135,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-## Building the "best" workflows and pipelines takes time and experience
+### Building the "best" workflows and pipelines takes time and experience
 
 <img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
 
@@ -156,9 +155,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-## Why are we automating this stuff?
+## Why are we focused on automating this stuff?
 
-<span style="font-size: 100%; color:#F9FF33"> Good programmers are hard working. <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Good programmers are hard workin g. <!-- .element: class="fragment" --> 
     
 <span style="font-size: 100%; color:#FF0000"> _Great_ programmers are lazy. <!-- .element: class="fragment" --> 
 
@@ -191,7 +190,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ---
 
-# Working with your data in CyVerse
+### Working with your data in CyVerse
 
 +++
 
@@ -242,27 +241,6 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-@title[EZ Install]
-
-## <span style="color: #e49436">EZ Install</span>
-<br>
-
-```shell
-$ ez
-$ ezd
-$ ezs
-$ ezj -R -3
-$ ezjh
-```
-
-@[1](View option menu for Ansible `ez`)
-@[2](Install latest version of Docker)
-@[3](Install latest version of Singularity)
-@[4](Install Anaconda and Jupyter Notebooks w/ Python3 and the R Kernel)
-@[5](Install a Jupyter-Hub with CyVerse CAS)
-
-+++
-
 <img src="https://raw.githubusercontent.com/OpenDroneMap/OpenDroneMap/master/img/odm_image.png" height="150">
 
 ```shell
@@ -272,7 +250,6 @@ $ exit
 $ docker pull opendronemap/node-opendronemap:latest
 $ docker run -d -p 3000:3000 opendronemap/node-opendronemap
 Done!
-
 ```
 
 @[1](install Docker and the Portainer.io - note the log output and the Portainer admin token)
@@ -301,7 +278,7 @@ Done!
 
 ### Visual Interactive Computing Environment (VICE)
 
-<img src="assets/imagery/vice.png" width="500">
+<img src="assets/imagery/vice.png" width="400">
 
 +++
 
@@ -309,13 +286,11 @@ Done!
 
 ---
 
----
-
-# Hosting and Publishing Data with CyVerse
+### Hosting and Publishing Data with CyVerse
 
 ---
 
-## [DataCommons](http://datacommons.cyverse.org/)
+### [DataCommons](http://datacommons.cyverse.org/)
 
 <img src="assets/imagery/DataCommons_White.png" height="200">
 
@@ -326,7 +301,7 @@ Done!
 
 ---
 
-# Moving Data
+### Moving Data
 
 - iRODS iCommands (CLI)
 - WebDav (HTTPS)
@@ -335,16 +310,19 @@ Done!
 
 ---
 
-
 ### Want to learn more?
 
 <img src="https://carpentries.org/images/TheCarpentries-opengraph.png" width="800">
+
+https://carpentries.org
 
 +++
 
 ### [The Learning Center](http://learning.cyverse.org/en/latest/) 
 
 <img src="assets/imagery/Learningcenter_white.png" height="200"> 
+
+http://learning.cyverse.org/en/latest/
 
 +++
 
@@ -360,6 +338,7 @@ https://www.cyverse.org/foss
 
 ## Acknowledgments
 
+All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/cyverse-gis/uav-webinar/PITCHME.md 
 
 ---?image=assets/imagery/endslide.png
 
