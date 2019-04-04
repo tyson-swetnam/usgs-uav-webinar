@@ -44,13 +44,13 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png" height="1000">
+<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png" width="1000">
 
 @snap[south raleway-medium span-55] Source: Matt Turck, 2018, http://mattturck.com @snapend
 
 +++
 
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png" width="1000">
 
 Source: Wikipedia, Gartner Inc. Hype Cycle
 +++
