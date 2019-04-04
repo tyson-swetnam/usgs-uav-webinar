@@ -44,10 +44,13 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ---?image=http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 
+Source: Matt Turck, 2018, http://mattturck.com
+
 +++
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png)
 
+Source: Wikipedia, Gartner Inc. Hype Cycle
 +++
 
 <span style="font-size: 100%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
@@ -90,6 +93,8 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
  
 <img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="fragment" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="fragment" -->
 
+Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf 
+
 +++ 
 
 ## Solution: Containerize software, run it anywhere. 
@@ -106,7 +111,6 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 - Portability <!-- .element: class="fragment" --> **& _Scalability_** <!-- .element: class="fragment" -->
 
 +++
-
 
 ### Deciding which UAV processing and analysis software to use?
 <img src="assets/imagery/dreaming.png" width="500">
