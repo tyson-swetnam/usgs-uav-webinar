@@ -44,15 +44,18 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png" width="1000">
+<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png" width="900">
 
-@snap[south raleway-medium span-55] Source: Matt Turck, 2018, http://mattturck.com @snapend
+@snap[south] Source: Matt Turck, 2018, http://mattturck.com 
+@snapend
 
 +++
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png" width="1000">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png" width="900">
 
-Source: Wikipedia, Gartner Inc. Hype Cycle
+@snap[south] Source: Wikipedia, Gartner Inc. Hype Cycle
+@snapend
+
 +++
 
 <span style="font-size: 100%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
@@ -201,11 +204,15 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 ---
 
-### Working with your data in CyVerse
+### Bring your own data
+
+<img src="assets/imagery/cyverse_white.png" width="800">
 
 +++
 
-### Important: CyVerse is enabled by <span style="font-weight: bold; color: #c7232e">_People & Research Objectives_</span>  <!-- .element: class="fragment" -->
+### Important: CyVerse is enabled by 
+
+<span style="font-weight: bold; color: #c7232e">_People & Research Objectives_</span> 
 
 ### Our success depends on users innovating within an ecosystem of interoperability  <!-- .element: class="fragment" -->
 
@@ -213,11 +220,11 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 <img src="http://www.twincities.com/wp-content/uploads/2015/11/20130102__field-of-dreamsl.jpg" height="250"> <img src="https://theamericangenius.com/wp-content/uploads/2014/02/field-of-dreams.jpg" height="250">
 
-<span style="font-weight: bold; font-size: 150%; color:#FF0000">NOT!</span> <!-- .element: class="fragment" -->
+<span style="font-weight: bold; font-size: 200%; color:#FF0000">NOT!</span> <!-- .element: class="fragment" -->
 
 +++
 
-### In CyVerse <span style="font-weight: bold; color: #3685E3">we work with you</span> to identify the tools, workflows, and datasets you need.
+### In CyVerse <span style="font-weight: bold; color: #3685E3">_we work with you_</span> to identify the tools, workflows, and datasets you need.
 
 <img src="http://insidethegem.com/wp-content/uploads/organic-logo.png" height="150"> <img src="http://cstaab.com/wp-content/uploads/cpp_java_python.png" height="150"> <img src="https://pbs.twimg.com/profile_images/662507863516905472/7piKPHHv_400x400.jpg" height="150"> 
 
@@ -228,7 +235,7 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 <img src="assets/imagery/Atmosphere_white.png" width="200">
 
-## On demand cloud computing for scientific research
+### On demand cloud computing for scientific research
 
 +++
 
@@ -276,6 +283,8 @@ Done!
 
 <img src="assets/imagery/Discovery_white.png" height="200">
 
+A Data Science Workbench
+
 +++
 
 <img src="assets/imagery/Discovery_white.png" height="200">
@@ -283,13 +292,14 @@ Done!
 - Add your own Docker containers as "Tools"
 - Build "Apps" with interfaces for users (equivalent command-line interface execution)
 - Create a sequenced workflow by chaining one app to another in an automated workflow.
-- Use application programming interfaces (APIs)
 
 +++
 
 ### Visual Interactive Computing Environment (VICE)
 
 <img src="assets/imagery/vice.png" width="400">
+
+Work with your data interactively in your favorite IDE
 
 +++
 
