@@ -67,6 +67,8 @@ Source: Wikipedia, Gartner Inc. Hype Cycle
     <span style="font-size: 80%; color:#FF0000"> (e.g. Imagery w/ metadata, Flight Logs, GPS Locations ) <!-- .element: class="fragment" --> 
         <span style="font-size: 100%; color:#FFFFFF"> = "Level 1" data product <!-- .element: class="fragment" --> 
 
+<span style="font-size: 100%; color:#FFFFFF"> Index it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Find, Search, Query <!-- .element: class="fragment" --> 
+    
 <span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Information <!-- .element: class="fragment" --> 
 
 +++
