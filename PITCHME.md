@@ -155,6 +155,14 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 +++
 
+### Getting stuff done.
+
+<span style="font-size: 100%; color:#FF0000"> 1) Do the things. <!-- .element: class="fragment" -->
+<span style="font-size: 120%; color:#F9FF33"> 2) Do the things right. <!-- .element: class="fragment" -->
+<span style="font-size: 120%; color:#58FF33"> 3) Do the things well. <!-- .element: class="fragment" -->
+
++++
+
 <img src="assets/imagery/sUAS_pipeline.jpg" width="1200">
 
 +++
