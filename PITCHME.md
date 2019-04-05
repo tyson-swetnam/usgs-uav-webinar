@@ -51,13 +51,6 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/1000px-Gartner_Hype_Cycle.svg.png" width="900">
-
-@snap[south] Source: Wikipedia, Gartner Inc. Hype Cycle
-@snapend
-
-+++
-
 <span style="font-size: 100%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
     <span style="font-size: 80%; color:#FF0000"> (Binary & Unstructured) <!-- .element: class="fragment" --> 
         <span style="font-size: 100%; color:#FFFFFF"> = "Level 0" data product <!-- .element: class="fragment" --> 
