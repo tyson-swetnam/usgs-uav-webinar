@@ -139,6 +139,8 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 <img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" width="150">
 <img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" width="150">
 
++++
+
 ## Working with sUAS data in Cyberinfrastructure
 
 <img src="assets/imagery/calliope_logo.png" width="400">
