@@ -71,7 +71,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 <span style="font-size: 100%; color:#F9FF33"> Information <!-- .element: class="fragment" --> 
     <span style="font-size: 80%; color:#FF0000"> (e.g. Classified layers w/ metadata) <!-- .element: class="fragment" --> 
-        <span style="font-size: 100%; color:#FFFFFF"> = "Level 3" data product <!-- .element: class="fragment" --> 
+        <span style="font-size: 100%; color:#FFFFFF"> = "Level 2-3" data product <!-- .element: class="fragment" --> 
 
 <span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Knowledge <!-- .element: class="fragment" --> 
 
