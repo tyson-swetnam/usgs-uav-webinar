@@ -84,7 +84,13 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-## Pitfalls while working in bespoke software and environments
+## Big Data pitfalls while working in bespoke software and environments
+
++++
+
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">Not your laptop, desktop, or workstation, anymore.</span>
+
+<img src="assets/imagery/CPU-Cabinet-Transparent-PNG.png" width="400"> 
 
 +++
 
@@ -99,7 +105,7 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 ## Solution: Containerize software, run it anywhere. 
 
-<img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" width="400"> <!-- .element: class="fragment" -->
+<img src="assets/imagery/ocelote.jpg" width="400">  <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" width="400"> 
 
 +++
 
@@ -109,6 +115,8 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 - Compiling software is sloooowww <!-- .element: class="fragment" -->
 - Reproducibility is hard across platforms <!-- .element: class="fragment" -->
 - Portability <!-- .element: class="fragment" --> **& _Scalability_** <!-- .element: class="fragment" -->
+
+<img src="assets/imagery/vertical_large.png" width="200"> 
 
 +++
 
@@ -131,29 +139,9 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 <img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" width="150">
 <img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" width="150">
 
-+++
+## Working with sUAS data in Cyberinfrastructure
 
-
-[Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
-
-**54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
-
-<img src="https://img00.deviantart.net/58af/i/2012/093/a/c/la_brea_tar_pits_by_felipenn-d4uxy05.jpg" width="400">
-
-+++
-
-### Building the "best" workflows and pipelines takes time and experience
-
-<img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
-
-+++
-
-### Getting stuff done.
-
-<span style="font-size: 100%; color:#FF0000"> 1) Do the things. <!-- .element: class="fragment" -->
-<span style="font-size: 120%; color:#F9FF33"> 2) Do the things right. <!-- .element: class="fragment" -->
-    
-<span style="font-size: 120%; color:#58FF33"> 3) Do the things well. <!-- .element: class="fragment" -->
+<img src="assets/imagery/calliope_logo.png" width="400">
 
 +++
 
@@ -163,25 +151,13 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 <img src="assets/imagery/workflow_calliope_clowder.png" width="1200">
 
----
++++
 
 ## Have Workflow, Will Travel
 
 <img src="https://rhystranter.files.wordpress.com/2016/11/studio-ghibli-howls-moving-castle.jpg" height="400">
 
-+++
-
-## Why are we focused on automating this stuff?
-
-<span style="font-size: 100%; color:#F9FF33"> Good programmers are hard working. <!-- .element: class="fragment" --> 
-    
-<span style="font-size: 100%; color:#FF0000"> Great programmers are lazy. <!-- .element: class="fragment" --> 
-
-+++
-
-## Working with sUAS data in Cyberinfrastructure
-
-<img src="assets/imagery/calliope_logo.png" width="400">
+Source: Studio Ghibli, Howl's Moving Castle (2012).
 
 +++
 
@@ -198,15 +174,16 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 ---?image=assets/imagery/dockerhub_ubuntu_xfce.png
 
 ---?image=assets/imagery/metashape.jpg
+
 +++
 
 <span style="font-weight: bold; font-size: 150%; color:#F0FF00">Power Users</span>
 
 - Interest in scaling workflow beyond the laptop / desktop onto HPC and Cloud <!-- .element: class="fragment" -->
-
+- Need to run 10s to 1,000s of jobs (sUAS flights) across a large geographic area <!-- .element: class="fragment" -->
 ---
 
-### Bring your own data
+### The "Bring Your Own Data Approach"
 
 <img src="assets/imagery/cyverse_white.png" width="800">
 
@@ -332,6 +309,37 @@ Work with your data interactively in your favorite IDE
 - CyberDuck
 
 ---
+
+## Why are we focused on automating this stuff?
+
+<span style="font-size: 100%; color:#F9FF33"> Good programmers are hard working. <!-- .element: class="fragment" --> 
+    
+<span style="font-size: 100%; color:#FF0000"> Great programmers are lazy. <!-- .element: class="fragment" --> 
+
++++
+
+[Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
+
+**54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
+
+<img src="https://img00.deviantart.net/58af/i/2012/093/a/c/la_brea_tar_pits_by_felipenn-d4uxy05.jpg" width="400">
+
++++
+
+### Building the "best" workflows and pipelines takes time and experience
+
+<img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
+
++++
+
+### Getting stuff done.
+
+<span style="font-size: 100%; color:#FF0000"> 1) Do the things. <!-- .element: class="fragment" -->
+<span style="font-size: 120%; color:#F9FF33"> 2) Do the things right. <!-- .element: class="fragment" -->
+    
+<span style="font-size: 120%; color:#58FF33"> 3) Do the things well. <!-- .element: class="fragment" -->
+
++++
 
 ### Want to learn more?
 
