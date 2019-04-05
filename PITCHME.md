@@ -171,9 +171,9 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 ## Why are we focused on automating this stuff?
 
-<span style="font-size: 100%; color:#F9FF33"> Good programmers are hard workin g. <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Good programmers are hard working. <!-- .element: class="fragment" --> 
     
-<span style="font-size: 100%; color:#FF0000"> _Great_ programmers are lazy. <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#FF0000"> Great programmers are lazy. <!-- .element: class="fragment" --> 
 
 +++
 
