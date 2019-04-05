@@ -343,11 +343,17 @@ Work with your data interactively in your favorite IDE
 
 +++
 
-### Want to learn more?
+### Want to learn more about programming?
 
 <img src="https://carpentries.org/images/TheCarpentries-opengraph.png" width="800">
 
 https://carpentries.org
+
++++
+
+### Want to learn more about CyVerse?
+
+Focus Forum Webinars: https://www.cyverse.org/ffw
 
 +++
 
@@ -374,5 +380,3 @@ https://www.cyverse.org/foss
 All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/cyverse-gis/uav-webinar/PITCHME.md 
 
 ---?image=assets/imagery/endslide.png
-
-
