@@ -37,9 +37,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 <img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> <!-- .element: class="fragment" -->
 
 +++
-
 ## sUAS = AWESOME!
-
 +++
 ![Video](https://www.youtube.com/embed/YpNIWaFXQs4)
 +++
@@ -47,20 +45,18 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 +++
 ![Video](https://www.youtube.com/embed/c1_yFK5jYC8)
 +++
-
 ## sUAS = PTSD
-
++++
 ---?image=assets/imagery/firefly6_crash1.jpg
-
++++
 ---?image=assets/imagery/firefly6_crash2.jpg
-
++++
 ---?video=https://www.youtube.com/embed/RRc5LDJrk3I
-
++++
 ![Video](https://www.youtube.com/embed/2_FD94RgLPE)
-
 +++
 
-## sUAS = a new profession
+## sUAS pilot = new profession
 
 ![Video](https://www.youtube.com/embed/IklFgsnGG0c)
 
