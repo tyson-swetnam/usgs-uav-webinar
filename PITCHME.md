@@ -54,7 +54,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ---?image=assets/imagery/firefly6_crash2.jpg
 
-![Video](https://www.youtube.com/embed/RRc5LDJrk3I)
+---?video=https://www.youtube.com/embed/RRc5LDJrk3I
 
 ![Video](https://www.youtube.com/embed/2_FD94RgLPE)
 
