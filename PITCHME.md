@@ -183,9 +183,11 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 ---?image=https://rhystranter.files.wordpress.com/2016/11/studio-ghibli-howls-moving-castle.jpg
 
-## Have Workflow, Will Travel
+# Have Workflow, Will Travel
 
-Source: Studio Ghibli, Howl's Moving Castle (2012).
+@snap[north-east]
+@color[#e49436](Image Source: Studio Ghibli, Howl's Moving Castle (2012).)
+@snapend
 
 +++
 
