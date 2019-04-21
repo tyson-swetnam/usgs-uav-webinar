@@ -112,11 +112,10 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ## Big Data pitfalls while working in bespoke software and environments
 
-+++
+---?image=https://media.giphy.com/media/h8vMB82EK3hyU/giphy.gif
 
 <span style="font-weight: bold; font-size: 150%; color:#FF0000">Not your laptop, desktop, or workstation, anymore.</span>
 
-![gif](https://media.giphy.com/media/h8vMB82EK3hyU/giphy.gif)
 
 +++
 
