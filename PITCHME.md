@@ -47,9 +47,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 +++
 ## sUAS = PTSD
 +++
----?image=assets/imagery/firefly6_crash1.jpg
-+++
 ---?image=assets/imagery/firefly6_crash2.jpg
++++
+---?image=assets/imagery/firefly6_crash1.jpg
 +++
 ---?video=https://www.youtube.com/embed/RRc5LDJrk3I
 +++
