@@ -24,15 +24,43 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 
-<span style="font-size: 100%; color:#58FF33"> 1) Work with sUAS data in cyberinfrastructure </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33"> 1) Why sUAS in your research? </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#F9FF33"> 2) Reproducible techniques for data processing & data management </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33"> 2) Working with sUAS data in research-scale cyberinfrastructure (rather than your own computer) </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 100%; color:#F9FF33"> 3) Mastering reproducible techniques for data processing & data management </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 150%; color:#FF0000"> Do all the things </span> <!-- .element: class="fragment" -->
 
 <img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> <!-- .element: class="fragment" -->
 
----
++++
+
+## sUAS = AWESOME!
+
+---?video=https://youtu.be/YpNIWaFXQs4
+
+---?video=https://youtu.be/xgNtQymN5GQ
+
+---?video=https://youtu.be/c1_yFK5jYC8
+
++++
+
+## sUAS = PTSD
+
+---?image=assets/imagery/firefly6_crash1.jpg
+
+---?image=assets/imagery/firefly6_crash2.jpg
+
+---?video=https://youtu.be/RRc5LDJrk3I
+
+---?video=https://youtu.be/2_FD94RgLPE
+
++++
+
+## sUAS, a new profession
+
+---?video=https://youtu.be/IklFgsnGG0c
 
 ## Big Data: useless or transformative?
 
@@ -40,7 +68,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 <span style="font-size: 150%; color:#F9FF33"> "Big data ≠ science" </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 80%; color:#FF0000"> -- Anonymous senior-researcher </span> <!-- .element: class="fragment" -->
+<span style="font-size: 80%; color:#FF0000"> -- Anonymous senior USGS researcher </span> <!-- .element: class="fragment" -->
 
 +++
 
@@ -89,6 +117,8 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 +++
 
 <span style="font-weight: bold; font-size: 150%; color:#FF0000">Not your laptop, desktop, or workstation, anymore.</span>
+
+<img src="https://giphy.com/embed/h8vMB82EK3hyU" width="400"> 
 
 <img src="assets/imagery/CPU-Cabinet-Transparent-PNG.png" width="400"> 
 
