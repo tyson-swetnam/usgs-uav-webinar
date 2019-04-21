@@ -36,10 +36,8 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 <img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> <!-- .element: class="fragment" -->
 
-+++
+---?image=https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif
 ## sUAS = AWESOME!
-
-![olympics](https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif)
 
 +++
 ![Video](https://www.youtube.com/embed/YpNIWaFXQs4)
@@ -47,9 +45,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 ![Video](https://www.youtube.com/embed/xgNtQymN5GQ)
 +++
 ![Video](https://www.youtube.com/embed/c1_yFK5jYC8)
-+++
+
+---?image=https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif
 ## sUAS = PTSD
-![noooo](https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif)
 
 ---?image=assets/imagery/firefly6_crash2.jpg
 ---?image=assets/imagery/firefly_crash1.jpg
@@ -117,9 +115,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ## Big Data pitfalls while working in bespoke software and environments
 
----?image=https://media.giphy.com/media/h8vMB82EK3hyU/giphy.gif
+---?image=https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif
 
-<span style="font-weight: bold; font-size: 150%; color:#FFFFFF">Not your laptop, desktop, or workstation, anymore.</span>
+<span style="font-weight: bold; font-size: 150%; color:#F9FF33">Not your laptop, desktop, or workstation, anymore.</span>
 
 
 +++
