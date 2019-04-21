@@ -30,6 +30,8 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 <span style="font-size: 100%; color:#F9FF33"> 3) Mastering reproducible techniques for data processing & data management </span> <!-- .element: class="fragment" -->
 
++++
+
 <span style="font-size: 150%; color:#FF0000"> Do all the things </span> <!-- .element: class="fragment" -->
 
 <img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> <!-- .element: class="fragment" -->
@@ -38,12 +40,12 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ## sUAS = AWESOME!
 
----?video=https://youtu.be/YpNIWaFXQs4
-
----?video=https://youtu.be/xgNtQymN5GQ
-
----?video=https://youtu.be/c1_yFK5jYC8
-
++++
+![Video](https://www.youtube.com/embed/YpNIWaFXQs4)
++++
+![Video](https://www.youtube.com/embed/xgNtQymN5GQ)
++++
+![Video](https://www.youtube.com/embed/c1_yFK5jYC8)
 +++
 
 ## sUAS = PTSD
@@ -52,15 +54,17 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ---?image=assets/imagery/firefly6_crash2.jpg
 
----?video=https://youtu.be/RRc5LDJrk3I
+![Video](https://www.youtube.com/embed/RRc5LDJrk3I)
 
----?video=https://youtu.be/2_FD94RgLPE
+![Video](https://www.youtube.com/embed/2_FD94RgLPE)
 
 +++
 
-## sUAS, a new profession
+## sUAS = a new profession
 
----?video=https://youtu.be/IklFgsnGG0c
+![Video](https://www.youtube.com/embed/IklFgsnGG0c)
+
++++
 
 ## Big Data: useless or transformative?
 
