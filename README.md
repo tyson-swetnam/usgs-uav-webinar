@@ -1,6 +1,6 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/cyverse-gis/uav-webinar/master) 
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/tyson-swetnam/usgs-uav-webinar/master) 
 
 # uav-webinar 
-2019-04-05 CyVerse webinar to USDA-ARS and LTAR groups on sUAS data processing. 
+2019-04-26 CyVerse webinar to USGS on sUAS based research and cyberinfrastructure for sUAS data processing. 
 
-To run presentation from Git Pitch, change the URL from https://github.com/ to https://gitpitch.com/cyverse-gis/uav-webinar.
+To run presentation from Git Pitch, change the URL from https://github.com/ to https://gitpitch.com/tyson-swetnam/usgs-uav-webinar.
