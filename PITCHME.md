@@ -16,10 +16,9 @@ github id: [tyson-swetnam](https://github.com/tyson-swetnam) & [cyverse-gis](htt
 
 twitter: @tswetnam
 
-talk link: https://github.com/cyverse-gis/uav-webinar/ 
+talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/ 
 
----
-
+---?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg
 # Today's Roadmap
 
 +++
