@@ -39,7 +39,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 +++
 ## sUAS = AWESOME!
 +++
-![Video](https://www.youtube.com/embed/YpNIWaFXQs4)
+---?video=https://www.youtube.com/embed/YpNIWaFXQs4
 +++
 ![Video](https://www.youtube.com/embed/xgNtQymN5GQ)
 +++
