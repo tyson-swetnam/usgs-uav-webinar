@@ -46,9 +46,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 ![Video](https://www.youtube.com/embed/c1_yFK5jYC8)
 +++
 ## sUAS = PTSD
-+++
 ---?image=assets/imagery/firefly6_crash2.jpg
-+++
 ---?image=assets/imagery/firefly_crash1.jpg
 +++
 ![Video](https://www.youtube.com/embed/RRc5LDJrk3I)
@@ -118,9 +116,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 <span style="font-weight: bold; font-size: 150%; color:#FF0000">Not your laptop, desktop, or workstation, anymore.</span>
 
-<img src="https://giphy.com/embed/h8vMB82EK3hyU" width="400"> 
-
-<img src="assets/imagery/CPU-Cabinet-Transparent-PNG.png" width="400"> 
+![gif](https://giphy.com/embed/h8vMB82EK3hyU)<img src="assets/imagery/CPU-Cabinet-Transparent-PNG.png" width="400"> 
 
 +++
 
