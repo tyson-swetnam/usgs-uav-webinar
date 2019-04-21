@@ -114,7 +114,7 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 ---?image=https://media.giphy.com/media/h8vMB82EK3hyU/giphy.gif
 
-<span style="font-weight: bold; font-size: 150%; color:#FF0000">Not your laptop, desktop, or workstation, anymore.</span>
+<span style="font-weight: bold; font-size: 150%; color:#FFFFFF">Not your laptop, desktop, or workstation, anymore.</span>
 
 
 +++
@@ -178,11 +178,9 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 <img src="assets/imagery/workflow_calliope_clowder.png" width="1200">
 
-+++
+---?image=https://rhystranter.files.wordpress.com/2016/11/studio-ghibli-howls-moving-castle.jpg
 
 ## Have Workflow, Will Travel
-
-<img src="https://rhystranter.files.wordpress.com/2016/11/studio-ghibli-howls-moving-castle.jpg" height="400">
 
 Source: Studio Ghibli, Howl's Moving Castle (2012).
 
