@@ -38,6 +38,9 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 
 +++
 ## sUAS = AWESOME!
+
+![olympics](https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif)
+
 +++
 ![Video](https://www.youtube.com/embed/YpNIWaFXQs4)
 +++
@@ -46,6 +49,8 @@ talk link: https://github.com/cyverse-gis/uav-webinar/
 ![Video](https://www.youtube.com/embed/c1_yFK5jYC8)
 +++
 ## sUAS = PTSD
+![noooo](https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif)
+
 ---?image=assets/imagery/firefly6_crash2.jpg
 ---?image=assets/imagery/firefly_crash1.jpg
 +++
