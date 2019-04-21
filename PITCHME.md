@@ -1,11 +1,8 @@
----
-
+---?image=https://media.giphy.com/media/8JTmHivPA0mvTBd5yL/giphy.gif
 <span style="font-weight: bold; font-size: 170%; color:#FFFF00">Droning on about sUAS data pipelines, processing, and reproducible research</span> 
-
-April 25, 2019
+##### April 25, 2019
 #### Tyson Lee Swetnam Ph.D.
 <img src="assets/imagery/cyverse_white.png" width="500">
-
 +++
 
 ### Contact Info
@@ -19,21 +16,21 @@ twitter: @tswetnam
 talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/ 
 
 ---?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg
-# Today's Roadmap
+<span style="font-size: 200%; color:#F9FF33">Today's Roadmap </span>
 
 +++
 
-<span style="font-size: 100%; color:#58FF33"> 1) Why sUAS in your research? </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FF0000"> 1) Why sUAS with your research? </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#58FF33"> 2) Working with sUAS data in research-scale cyberinfrastructure (rather than your own computer) </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33"> 2) Big Data ≠ Science (?) </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#F9FF33"> 3) Mastering reproducible techniques for data processing & data management </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#F9FF33"> 3) Processing sUAS data in cyberinfrastructure  </span> <!-- .element: class="fragment" -->
 
 +++
 
-<span style="font-size: 150%; color:#FF0000"> Do all the things </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#FF0000"> Do all the things </span>
 
-<img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> <!-- .element: class="fragment" -->
+<img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> 
 
 ---?image=https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif
 ## sUAS = AWESOME!
@@ -66,9 +63,9 @@ talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/
 
 [How big data has created a crisis in Science](https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html)
 
-<span style="font-size: 150%; color:#F9FF33"> "Big data ≠ science" </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#F9FF33"> "Big Data ≠ Science" </span> 
 
-<span style="font-size: 80%; color:#FF0000"> -- Anonymous senior USGS researcher </span> <!-- .element: class="fragment" -->
+<span style="font-size: 80%; color:#FF0000"> -- Anonymous Senior USGS Researcher </span>
 
 +++
 
