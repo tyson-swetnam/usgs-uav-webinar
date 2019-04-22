@@ -42,10 +42,19 @@ talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/
 +++
 ![Video](https://www.youtube.com/embed/c1_yFK5jYC8)
 +++
-<img src="https://raw.githubusercontent.com/tyson-swetnam/srer-wgew/master/img/sensors.jpg" height="900"> 
+<img src="https://raw.githubusercontent.com/tyson-swetnam/srer-wgew/master/img/sensors.jpg" width="900"> 
 +++
 http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 +++
+
+# PRO
+
+<span style="font-size: 200%; color:#FF0000"> Ultra High Spatial Resolution </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 200%; color:#58FF33"> Frequent Temporal Return Interval </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 200%; color:#F9FF33"> Cheap </span> <!-- .element: class="fragment" -->
+
 ---?image=https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif
 ## sUAS = PTSD
 
@@ -56,6 +65,15 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 +++
 ![Video](https://www.youtube.com/embed/2_FD94RgLPE)
 +++
+
+# CON 
+
+<span style="font-size: 200%; color:#FF0000"> Difficult to build and fly </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 200%; color:#58FF33"> Needs integration across systems (Camera, RTK GNSS, lidar, etc) </span> <!-- .element: class="fragment" -->
+
+<span style="font-size: 200%; color:#F9FF33"> Big Data → Requires massive computer processing </span> <!-- .element: class="fragment" -->
+
 
 ## sUAS pilot = new profession
 
@@ -80,17 +98,17 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 +++
 
-<span style="font-size: 100%; color:#F9FF33"> Big Data <!-- .element: class="fragment" --> 
-    <span style="font-size: 80%; color:#FF0000"> (Binary & Unstructured) <!-- .element: class="fragment" --> 
-        <span style="font-size: 100%; color:#FFFFFF"> = "Level 0" data product <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Big Data </span>
+    <span style="font-size: 80%; color:#FF0000"> (Binary & Unstructured) </span>
+        <span style="font-size: 100%; color:#FFFFFF"> = "Level 0" data product </span>
 
 <span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Structured Data <!-- .element: class="fragment" --> 
 
 +++
 
-<span style="font-size: 100%; color:#F9FF33"> Structured Data <!-- .element: class="fragment" --> 
-    <span style="font-size: 80%; color:#FF0000"> (e.g. Imagery w/ metadata, Flight Logs, GPS Locations ) <!-- .element: class="fragment" --> 
-        <span style="font-size: 100%; color:#FFFFFF"> = "Level 1" data product <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Structured Data </span>
+    <span style="font-size: 80%; color:#FF0000"> (e.g. Imagery w/ metadata, Flight Logs, GPS Locations ) </span>
+        <span style="font-size: 100%; color:#FFFFFF"> = "Level 1" data product </span>
 
 <span style="font-size: 100%; color:#FFFFFF"> Index it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Find, Search, Query <!-- .element: class="fragment" --> 
     
@@ -98,16 +116,16 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 +++
 
-<span style="font-size: 100%; color:#F9FF33"> Information <!-- .element: class="fragment" --> 
-    <span style="font-size: 80%; color:#FF0000"> (e.g. Classified layers w/ metadata) <!-- .element: class="fragment" --> 
-        <span style="font-size: 100%; color:#FFFFFF"> = "Level 2-3" data product <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Information </span>
+    <span style="font-size: 80%; color:#FF0000"> (e.g. Classified layers w/ metadata) </span>
+        <span style="font-size: 100%; color:#FFFFFF"> = "Level 2-3" data product </span>
 
 <span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Knowledge <!-- .element: class="fragment" --> 
 
 +++
 
-<span style="font-size: 100%; color:#F9FF33"> Knowledge <!-- .element: class="fragment" --> 
-    <span style="font-size: 80%; color:#FF0000"> (Process, Mechanism) <!-- .element: class="fragment" --> 
+<span style="font-size: 100%; color:#F9FF33"> Knowledge </span>
+    <span style="font-size: 80%; color:#FF0000"> (Process, Mechanism) </span>
         
 <span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Judgement & Decision Making <!-- .element: class="fragment" --> 
 
@@ -117,7 +135,7 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 ---?image=https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif
 
-<span style="font-weight: bold; font-size: 150%; color:#F9FF33">Not your laptop, desktop, or workstation, anymore.</span>
+<span style="font-weight: bold; font-size: 250%; color:#F9FF33">Not your laptop, desktop, or workstation, anymore.</span>
 
 
 +++
