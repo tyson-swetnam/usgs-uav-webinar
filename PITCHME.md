@@ -151,7 +151,7 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 ## Solution: Containerize software, run it anywhere. 
 
-<img src="assets/imagery/ocelote.jpg" width="400">  <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" width="400"> 
+<img src="assets/imagery/ocelote.jpg" height="300">  <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="300"> 
 
 +++
 
