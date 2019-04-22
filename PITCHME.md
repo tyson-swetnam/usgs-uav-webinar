@@ -49,11 +49,11 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 # PRO
 
-<span style="font-size: 200%; color:#FF0000"> Ultra High Spatial Resolution </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FF0000"> Ultra High Spatial Resolution </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 200%; color:#58FF33"> Frequent Temporal Return Interval </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33"> Frequent Temporal Return Interval </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 200%; color:#F9FF33"> Cheap </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#F9FF33"> Cheap </span> <!-- .element: class="fragment" -->
 
 ---?image=https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif
 ## sUAS = PTSD
@@ -68,11 +68,11 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 # CON 
 
-<span style="font-size: 200%; color:#FF0000"> Difficult to build and fly </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FF0000"> Difficult to build and fly </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 200%; color:#58FF33"> Needs integration across systems (Camera, RTK GNSS, lidar, etc) </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#58FF33"> Needs integration across systems (Camera, RTK GNSS, lidar, etc) </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 200%; color:#F9FF33"> Big Data → Requires massive computer processing </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#F9FF33"> Big Data → Requires massive computer processing </span> <!-- .element: class="fragment" -->
 
 
 ## sUAS pilot = new profession
