@@ -42,7 +42,7 @@ talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/
 +++
 ![Video](https://www.youtube.com/embed/c1_yFK5jYC8)
 
----?image=https://github.com/tyson-swetnam/srer-wgew/raw/master/img/sensors.jpg
+---?image=https://raw.githubusercontent.com/tyson-swetnam/srer-wgew/master/img/sensors.jpg
 +++
 <iframe class="stretch" data-src="http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html"></iframe>
 +++
