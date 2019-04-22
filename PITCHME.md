@@ -41,10 +41,10 @@ talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/
 ![Video](https://www.youtube.com/embed/xgNtQymN5GQ)
 +++
 ![Video](https://www.youtube.com/embed/c1_yFK5jYC8)
-
----?image=https://raw.githubusercontent.com/tyson-swetnam/srer-wgew/master/img/sensors.jpg
 +++
-<iframe class="stretch" data-src="http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html"></iframe>
+<img src="https://raw.githubusercontent.com/tyson-swetnam/srer-wgew/master/img/sensors.jpg" height="900"> 
++++
+http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 +++
 ---?image=https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif
 ## sUAS = PTSD
