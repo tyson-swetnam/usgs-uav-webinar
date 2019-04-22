@@ -131,10 +131,9 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 +++
 
-## Big Data pitfalls while working in bespoke software and environments
+## Pitfalls of working in bespoke software and environments
 
 ---?image=https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif
-
 <span style="font-weight: bold; font-size: 250%; color:#F9FF33">Not your laptop, desktop, or workstation, anymore.</span>
 
 
