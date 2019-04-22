@@ -1,11 +1,11 @@
----?image=https://media.giphy.com/media/8JTmHivPA0mvTBd5yL/giphy.gif
+---?image=https://media.giphy.com/media/orVa44Oav5WoF1LVOE/giphy.gif
 <span style="font-weight: bold; font-size: 170%; color:#FFFF00">Droning on about sUAS data pipelines, processing, and reproducible research</span> 
 ##### April 25, 2019
 #### Tyson Lee Swetnam Ph.D.
 <img src="assets/imagery/cyverse_white.png" width="500">
 +++
 
-### Contact Info
+### My Contact Info
 
 email: tswetnam@cyverse.org
 
