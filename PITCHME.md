@@ -20,7 +20,7 @@ talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/
 
 +++
 
-<span style="font-size: 100%; color:#FF0000"> 1) Why sUAS with your research? </span> <!-- .element: class="fragment" -->
+<span style="font-size: 100%; color:#FF0000"> 1) What's the big deal about sUAS? </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 100%; color:#58FF33"> 2) Big Data ≠ Science (?) </span> <!-- .element: class="fragment" -->
 
@@ -41,6 +41,9 @@ talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/
 ![Video](https://www.youtube.com/embed/xgNtQymN5GQ)
 +++
 ![Video](https://www.youtube.com/embed/c1_yFK5jYC8)
+---?image=https://github.com/tyson-swetnam/srer-wgew/blob/master/img/sensors.jpg
++++
+<iframe class="stretch" data-src="http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html"></iframe>
 
 ---?image=https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif
 ## sUAS = PTSD
