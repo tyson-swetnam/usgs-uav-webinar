@@ -137,7 +137,6 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 ---?image=https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif
 <span style="font-weight: bold; font-size: 250%; color:#F9FF33">Not your laptop, desktop, or workstation, anymore.</span>
 
-
 +++
 
 *different OS + third party software + updates/upgrades + redeployment* → 
@@ -200,12 +199,7 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 <img src="assets/imagery/workflow_calliope_clowder.png" width="1200">
 
 ---?image=https://rhystranter.files.wordpress.com/2016/11/studio-ghibli-howls-moving-castle.jpg
-
 # Have Workflow, Will Travel
-
-@snap[north-east]
-@color[#e49436](Image Source: Studio Ghibli, Howl's Moving Castle (2012).)
-@snapend
 
 +++
 
@@ -213,11 +207,10 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 +++
 
-<span style="font-weight: bold; font-size: 150%; color:#FF0000">Graphical User Interfaces</span>
+<span style="font-weight: bold; font-size: 150%; color:#FF0000">Graphical User Interfaces </span>
  
-- Need more computing power than a laptop <!-- .element: class="fragment" -->
-
-- Cannot afford to buy a $5,000 workstation <!-- .element: class="fragment" -->
+- Need more computing power than a laptop </span>
+- Cannot afford to buy a $5,000 workstation </span>
 
 ---?image=assets/imagery/dockerhub_ubuntu_xfce.png
 
@@ -225,10 +218,11 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 +++
 
-<span style="font-weight: bold; font-size: 150%; color:#F0FF00">Power Users</span>
+<span style="font-weight: bold; font-size: 150%; color:#F0FF00"> Power Users </span>
 
-- Interest in scaling workflow beyond the laptop / desktop onto HPC and Cloud <!-- .element: class="fragment" -->
-- Need to run 10s to 1,000s of jobs (sUAS flights) across a large geographic area <!-- .element: class="fragment" -->
+- Interest in scaling workflow beyond the laptop / desktop onto HPC and Cloud </span>
+- Need to run 10s to 1,000s of jobs (sUAS flights) across a large geographic area </span>
+
 ---
 
 ### The "Bring Your Own Data Approach"
@@ -247,16 +241,15 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 <img src="http://www.twincities.com/wp-content/uploads/2015/11/20130102__field-of-dreamsl.jpg" height="250"> <img src="https://theamericangenius.com/wp-content/uploads/2014/02/field-of-dreams.jpg" height="250">
 
-<span style="font-weight: bold; font-size: 200%; color:#FF0000">NOT!</span> <!-- .element: class="fragment" -->
+<span style="font-weight: bold; font-size: 200%; color:#FF0000"> NOT! </span> <!-- .element: class="fragment" -->
 
 +++
 
-### In CyVerse <span style="font-weight: bold; color: #3685E3">_we work with you_</span> to identify the tools, workflows, and datasets you need.
+### In CyVerse <span style="font-weight: bold; color: #3685E3">_we work with you_ </span> to identify the tools, workflows, and datasets you need.
 
 <img src="http://insidethegem.com/wp-content/uploads/organic-logo.png" height="150"> <img src="http://cstaab.com/wp-content/uploads/cpp_java_python.png" height="150"> <img src="https://pbs.twimg.com/profile_images/662507863516905472/7piKPHHv_400x400.jpg" height="150"> 
 
 +++
-
 
 ## [Atmosphere](https://cyverse.org/atmosphere)
 
@@ -281,28 +274,21 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
   up to 
   - 16 CPU, 128GB RAM, 1400GB Disk
 - Attach (and swap) external storage volumes    
-- emulated web shell and desktop via [Apache _Guacamole](https://guacamole.incubator.apache.org/)  
-
+- emulated web shell and desktop via [ApacheGuacamole](https://guacamole.incubator.apache.org/)  
 
 +++
 
 <img src="https://raw.githubusercontent.com/OpenDroneMap/OpenDroneMap/master/img/odm_image.png" height="150">
 
 ```shell
-$ ezd -p
-$ sudo usermod -aG docker $USER
-$ exit
-$ docker pull opendronemap/node-opendronemap:latest
-$ docker run -d -p 3000:3000 opendronemap/node-opendronemap
+$ ezd
+$ sudo docker run -d -p 3000:3000 opendronemap/node-opendronemap
 Done!
 ```
 
-@[1](install Docker and the Portainer.io - note the log output and the Portainer admin token)
-@[2](change privileges to run Docker without `sudo`) 
-@[3](exit and restart terminal window)
-@[4](pull the latest version of Node OpenDroneMap)
-@[5](Run the Container in `-d` detached mode on port `-p 3000:3000`)
-@[7](Open the Node OpenDroneMap in a new browser tab on the VM IP on port :3000)
+@[1](install Docker)
+@[2](Run the Container)
+@[3](Open the Node OpenDroneMap in a new browser tab on the VM IP on port :3000)
 
 +++
 
