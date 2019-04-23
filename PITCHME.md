@@ -130,13 +130,11 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
         
 <span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Judgement & Decision Making <!-- .element: class="fragment" --> 
 
-+++
-
 --?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
-# Pitfalls working in bespoke software and environments
+<span style="font-weight: bold; font-size: 250%; color:#F9FF33">Pitfalls working in bespoke software and environments </span>
 
 ---?image=https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif
-<span style="font-weight: bold; font-size: 250%; color:#F9FF33">Not your laptop or desktop anymore.</span>
+<span style="font-weight: bold; font-size: 250%; color:#F9FF33">Not your laptop or desktop anymore </span>
 
 +++
 
