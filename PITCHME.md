@@ -16,15 +16,15 @@ twitter: @tswetnam
 talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/ 
 
 ---?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg
-<span style="font-size: 300%; color:#F9FF33">Today's Roadmap </span>
+<span style="font-size: 300%; color:#000000">TODAY's ROADMAP </span>
 
 +++
 
-<span style="font-size: 100%; color:#FF0000"> 1) What's the big deal about sUAS? </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#FF0000"> 1) What's the big deal about sUAS? </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#58FF33"> 2) Big Data ≠ Science (?) </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#58FF33"> 2) Big Data ≠ Science (?) </span> <!-- .element: class="fragment" -->
 
-<span style="font-size: 100%; color:#F9FF33"> 3) Processing sUAS data in cyberinfrastructure  </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#F9FF33"> 3) Processing sUAS data in cyberinfrastructure  </span> <!-- .element: class="fragment" -->
 
 +++
 
