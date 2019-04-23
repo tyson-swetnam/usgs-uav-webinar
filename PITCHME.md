@@ -150,7 +150,7 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 ## Solution: Containerize software, run it anywhere. 
 
-<img src="assets/imagery/ocelote.jpg" height="200">  <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="200"> 
+<img src="assets/imagery/ocelote.jpg" height="230">  <img src="https://cdn-images-1.medium.com/max/1600/1*yo62B91F4V1QIJYirBbxlQ.jpeg" height="230"> 
 
 +++
 
@@ -170,19 +170,19 @@ Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf
 
 +++
 
-<img src="https://pbs.twimg.com/media/Czf37xpWIAIc1-M.jpg" width="150">
-<img src="https://www.integraldrones.com.au/wp-content/uploads/2016/06/Drone-deploy-image-2.jpg" width="150">
-<img src="http://store.jdrones.com/v/vspfiles/photos/swpix4dpro01-2.jpg" width="150">
-<img src="https://droneparts.de/media/image/fb/bb/03/Metashape_logo_.jpg" width="150">
-<img src="https://uasweekly.com/wp-content/uploads/2017/06/Flyt-base-logo-1-copy.jpg" width="150">
-<img src="https://d3pcsg2wjq9izr.cloudfront.net/files/51634/images/1.FarmersEdge-400.png" width="150">
-<img src="http://jttaylor.net/gis/drone2map/images/drone2map-icon.jpg" width="150">
-<img src="http://www.customerbliss.com/wp-content/uploads/2016/06/Esri-Logo-Compact.png" width="150">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/1280px-QGIS_logo%2C_2017.svg.png" width="150">
+<img src="https://pbs.twimg.com/media/Czf37xpWIAIc1-M.jpg" height="75">
+<img src="https://www.integraldrones.com.au/wp-content/uploads/2016/06/Drone-deploy-image-2.jpg" height="75">
+<img src="http://store.jdrones.com/v/vspfiles/photos/swpix4dpro01-2.jpg" height="75">
+<img src="https://droneparts.de/media/image/fb/bb/03/Metashape_logo_.jpg" height="75">
+<img src="https://uasweekly.com/wp-content/uploads/2017/06/Flyt-base-logo-1-copy.jpg" height="75">
+<img src="https://d3pcsg2wjq9izr.cloudfront.net/files/51634/images/1.FarmersEdge-400.png" height="75">
+<img src="http://jttaylor.net/gis/drone2map/images/drone2map-icon.jpg" height="75">
+<img src="http://www.customerbliss.com/wp-content/uploads/2016/06/Esri-Logo-Compact.png" height="75">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/1280px-QGIS_logo%2C_2017.svg.png" height="75">
 
-<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" width="150">
-<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" width="150">
-<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" width="150">
+<img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="75">
+<img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="75">
+<img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="75">
 
 +++
 
