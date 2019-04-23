@@ -132,19 +132,20 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 +++
 
-## Pitfalls of working in bespoke software and environments
+--?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
+# Pitfalls working in bespoke software and environments
 
 ---?image=https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif
-<span style="font-weight: bold; font-size: 250%; color:#F9FF33">Not your laptop, desktop, or workstation, anymore.</span>
+<span style="font-weight: bold; font-size: 250%; color:#F9FF33">Not your laptop or desktop anymore.</span>
 
 +++
 
 *different OS + third party software + updates/upgrades + redeployment* → 
- <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_</span> <!-- .element: class="fragment" -->
+ <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_ </span> 
  
 <img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="fragment" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="fragment" -->
 
-Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf 
+ <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
 
 +++ 
 
