@@ -130,11 +130,8 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
         
 <span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Judgement & Decision Making <!-- .element: class="fragment" --> 
 
---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
+---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 <span style="font-weight: bold; font-size: 250%; color:#F9FF33">Pitfalls working in bespoke software and environments </span>
-
----?image=https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif
-<span style="font-weight: bold; font-size: 250%; color:#F9FF33">Not your laptop or desktop anymore </span>
 
 +++
 
@@ -144,6 +141,9 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 <img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="fragment" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="fragment" -->
 
  <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
+
+---?image=https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif
+<span style="font-weight: bold; font-size: 250%; color:#F9FF33">Not your laptop or desktop anymore </span>
 
 +++ 
 
