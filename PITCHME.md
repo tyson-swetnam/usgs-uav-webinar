@@ -197,7 +197,7 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 <img src="assets/imagery/workflow_calliope_clowder.png" width="1200">
 
----?image=https://rhystranter.files.wordpress.com/2016/11/studio-ghibli-howls-moving-castle.jpg
+---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
 # Have Workflow, Will Travel
 
 +++
@@ -408,6 +408,8 @@ https://www.cyverse.org/foss
 
 ## Acknowledgments
 
-All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/cyverse-gis/uav-webinar/PITCHME.md 
+GIFs by Giphy.com
+
+All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnma/usgs-uav-weibnar/PITCHME.md 
 
 ---?image=assets/imagery/endslide.png
