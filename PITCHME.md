@@ -131,7 +131,7 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 <span style="font-size: 100%; color:#FFFFFF"> Process it <!-- .element: class="fragment" --> <span style="font-size: 100%; color:#F9FF33"> → Judgement & Decision Making <!-- .element: class="fragment" --> 
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
-<span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> MOVING YOUR RESEARCH ONTO CYBERINFRASTRUCTURE </span>
+<span style="font-weight: bold; font-size: 200%; color:#FFFFFF"> MOVING YOUR RESEARCH ONTO CYBERINFRASTRUCTURE </span>
 
 +++
 
