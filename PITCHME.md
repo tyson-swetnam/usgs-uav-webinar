@@ -142,8 +142,8 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
  <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
 
----?image=https://media.giphy.com/media/C5ldgOqYRbPGg/giphy.gif
-<span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP ANYMORE </span>
+---?image=https://media.giphy.com/media/xT4uQlHibhRkONbLdC/giphy.gif
+<span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
 
 +++ 
 
