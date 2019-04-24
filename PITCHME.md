@@ -325,6 +325,10 @@ Work with your data interactively in your favorite IDE
 
 +++
 
+[link](http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Gillan_et_al_RAMA_2019)
+
++++
+
 ### [DataCommons](http://datacommons.cyverse.org/)
 
 <img src="assets/imagery/DataCommons_White.png" height="200">
