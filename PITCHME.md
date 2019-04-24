@@ -224,7 +224,7 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 ---
 
-### The "Bring Your Own Data Approach"
+### The "Bring Your Own Data" Approach
 
 <img src="assets/imagery/cyverse_white.png" width="800">
 
@@ -234,7 +234,7 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 <span style="font-weight: bold; color: #c7232e">_People & Research Objectives_</span> 
 
-### Our success depends on users innovating within an ecosystem of interoperability  <!-- .element: class="fragment" -->
+### Success depends on users innovating within an ecosystem of interoperability  <!-- .element: class="fragment" -->
 
 +++
 
@@ -319,22 +319,23 @@ Work with your data interactively in your favorite IDE
 
 ---
 
-### Hosting and Publishing Data with CyVerse
+### Host and Publish Data
 
----
+---?image=assets/imagery/gillan_etal.png
+
++++
 
 ### [DataCommons](http://datacommons.cyverse.org/)
 
 <img src="assets/imagery/DataCommons_White.png" height="200">
 
-- Easily share your data with your community members, and the public.
-- "CyVerse Curated" data get a DOI
-- "Community Released" data are living shared data
-- Advantages over enterprise solutions
+- Share data with community members & public
+- "CyVerse Curated" → DOI
+- "Community Released" → living & shared
 
 ---
 
-### Moving Data
+### Data Transfer
 
 - iRODS iCommands (CLI)
 - WebDav (HTTPS)
