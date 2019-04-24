@@ -1,7 +1,7 @@
 ---?image=https://media.giphy.com/media/orVa44Oav5WoF1LVOE/giphy.gif
 <span style="font-weight: bold; font-size: 170%; color:#FFFFFF">Droning on about sUAS data pipelines, processing, and reproducible research</span> 
-##### April 25, 2019
-#### Tyson Lee Swetnam Ph.D.
+#### April 25, 2019
+### Tyson Lee Swetnam Ph.D.
 <img src="assets/imagery/cyverse_white.png" width="500">
 +++
 
@@ -142,7 +142,7 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
  <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
 
----?image=https://media.giphy.com/media/xT4uQlHibhRkONbLdC/giphy.gif
+---?image=https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif
 <span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
 
 +++ 
