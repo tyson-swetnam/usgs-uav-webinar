@@ -93,7 +93,7 @@ sUAS
 @snapend
 +++
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
-<span style="font-size: 150%; color:#FFFFFF"> Big Data: useless or transformative? </span>
+<span style="font-size: 200%; color:#FFFFFF"> BIG DATA: USELESS OR TRANSFORMATIVE? </span>
 
 +++
 ## NEWS ARTICLES
