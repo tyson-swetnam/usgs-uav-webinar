@@ -1,4 +1,4 @@
----?image=https://media.giphy.com/media/orVa44Oav5WoF1LVOE/giphy.gif
+---?image=https://media.giphy.com/media/6OWhb32If4hCU/giphy.gif
 <span style="font-weight: bold; font-size: 170%; color:#FFFFFF">Droning on about sUAS data pipelines, processing, and reproducible research</span> 
 #### April 25, 2019
 ### Tyson Lee Swetnam Ph.D.
@@ -47,6 +47,7 @@ talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/
 http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 +++
 
++++
 # PRO
 
 <span style="font-size: 100%; color:#FF0000"> Ultra High Spatial Resolution </span> <!-- .element: class="fragment" -->
@@ -230,11 +231,9 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 
 +++
 
-### Important: CyVerse is enabled by 
+### Important: CyVerse is enabled by People & Research Objectives
 
-<span style="font-weight: bold; color: #c7232e">_People & Research Objectives_</span> 
-
-### Success depends on users innovating within an ecosystem of interoperability  <!-- .element: class="fragment" -->
+### Success depends on users innovating within an ecosystem of interoperability  
 
 +++
 
@@ -273,7 +272,7 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
   up to 
   - 16 CPU, 128GB RAM, 1400GB Disk
 - Attach (and swap) external storage volumes    
-- emulated web shell and desktop via [ApacheGuacamole](https://guacamole.incubator.apache.org/)  
+- Web Shell and Desktops
 
 +++
 
@@ -303,7 +302,7 @@ A Data Science Workbench
 
 - Add your own Docker containers as "Tools"
 - Build "Apps" with interfaces for users (equivalent command-line interface execution)
-- Create a sequenced workflow by chaining one app to another in an automated workflow.
+- Create a sequenced workflow by chaining one app to another in an automated workflow
 
 +++
 
