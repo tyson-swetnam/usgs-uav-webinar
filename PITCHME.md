@@ -16,11 +16,11 @@ twitter: @tswetnam
 talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/ 
 
 ---?image=http://tile.loc.gov/image-services/iiif/service:gmd:gmd433:g4333:g4333p:la000006/full/pct:25/0/default.jpg
-<span style="font-size: 300%; color:#000000">TODAY's ROADMAP </span>
+<span style="font-size: 300%; color:#000000">TODAY'S ROADMAP </span>
 
 +++
 
-<span style="font-size: 150%; color:#FF0000"> 1) What's the big deal about sUAS? </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#FF0000"> 1) The sUAS Hype Cycle </span> <!-- .element: class="fragment" -->
 
 <span style="font-size: 150%; color:#58FF33"> 2) Big Data ≠ Science (?) </span> <!-- .element: class="fragment" -->
 
@@ -31,6 +31,8 @@ talk link: https://github.com/tyson-swetnam/usgs-uav-webinar/
 <span style="font-size: 200%; color:#FF0000"> Do all the things </span>
 
 <img src="http://rank-all-the-things.herokuapp.com/images/all_the_things.png" height="300"> 
+
+---?image=https://emtemp.gcom.cloud/ngw/globalassets/en/research/images/illustrations/researchmethodology-illustration-hype-cycle.jpg
 
 ---?image=https://media.giphy.com/media/ZNKTKocoj8e973Wptz/giphy.gif
 ## sUAS = AWESOME!
@@ -48,7 +50,7 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 +++
 
 +++
-# PRO
+# PEAK OF (INFLATED) EXPECTATION
 
 <span style="font-size: 100%; color:#FF0000"> Ultra High Spatial Resolution </span> <!-- .element: class="fragment" -->
 
@@ -67,7 +69,7 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 ![Video](https://www.youtube.com/embed/2_FD94RgLPE)
 +++
 
-# CON 
+# TROUGH OF DISALLUSIONMENT
 
 <span style="font-size: 100%; color:#FF0000"> Difficult to build and fly </span> <!-- .element: class="fragment" -->
 
@@ -76,11 +78,17 @@ http://calliope.cyverse.org/pointclouds/casa_angelica/casa-angelica.html
 <span style="font-size: 100%; color:#F9FF33"> Big Data → Requires massive computer processing </span> <!-- .element: class="fragment" -->
 
 +++
-
 ## sUAS pilot = new profession
-
 ![Video](https://www.youtube.com/embed/IklFgsnGG0c)
 
+---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
+@snap[west text-smallcaps text-white]
+Cyberinfrastructure
+@snapend
+
+@snap[east text-smallcaps text-white]
+sUAS
+@snapend
 +++
 
 ## Big Data: useless or transformative?
