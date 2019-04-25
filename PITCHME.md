@@ -1,7 +1,7 @@
 ---?image=https://media.giphy.com/media/6OWhb32If4hCU/giphy.gif
-<span style="font-weight: bold; font-size: 170%; color:#FFFFFF">Droning on about sUAS data pipelines, processing, and reproducible research</span> 
-#### April 25, 2019
-### Tyson Lee Swetnam Ph.D.
+<span style="font-weight: bold; font-size: 200%; color:#FFFF00"> Droning on about sUAS data pipelines, processing, and reproducible research</span> 
+<span style="font-weight: bold; font-size: 100%; color:#FFFF00"> April 25, 2019 </span> 
+<span style="font-weight: bold; font-size: 120%; color:#FFFF00"> Tyson Lee Swetnam Ph.D. </span> 
 <img src="assets/imagery/cyverse_white.png" width="500">
 +++
 
