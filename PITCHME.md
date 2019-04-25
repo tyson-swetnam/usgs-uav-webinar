@@ -292,15 +292,11 @@ Done!
 
 <img src="assets/imagery/Discovery_white.png" height="200">
 
-A Data Science Workbench
-
-+++
-
-<img src="assets/imagery/Discovery_white.png" height="200">
-
 - Add your own Docker containers as "Tools"
 - Build "Apps" with interfaces for users (equivalent command-line interface execution)
 - Create a sequenced workflow by chaining one app to another in an automated workflow
+
+---?image=assets/imagery/de.png
 
 +++
 
@@ -314,18 +310,9 @@ Work with your data interactively in your favorite IDE
 
 <img src="assets/imagery/vice_diagram_small.png" width="800">
 
+---?image=assets/imagery/qgis_vice.png
+
 ---
-
-### Host and Publish Data
-
----?image=assets/imagery/gillan_etal.png
-
-+++
-
-[link](http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Gillan_et_al_RAMA_2019)
-
-+++
-
 ### [DataCommons](http://datacommons.cyverse.org/)
 
 <img src="assets/imagery/DataCommons_White.png" height="200">
@@ -335,6 +322,15 @@ Work with your data interactively in your favorite IDE
 - "Community Released" → living & shared
 
 ---
+### Hosting and Published Data
+
+---?image=assets/imagery/gillan_etal.png
+
++++
+
+[link](http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Gillan_et_al_RAMA_2019)
+
++++
 
 ### Data Transfer
 
