@@ -109,7 +109,7 @@ sUAS
 
 <span style="font-size: 120%; color:#FF0000"> -- Anonymous Senior USGS Researcher </span>
 ---?image=http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
-
++++
 <span style="font-size: 100%; color:#F9FF33"> Big Data </span>
     <span style="font-size: 80%; color:#FF0000"> (Binary & Unstructured) </span>
         <span style="font-size: 100%; color:#FFFFFF"> = "Level 0" data product </span>
