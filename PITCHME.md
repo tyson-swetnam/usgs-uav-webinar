@@ -98,7 +98,12 @@ sUAS
 +++
 ## NEWS ARTICLES
 [How big data has created a crisis in Science](https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html)
-
+[AAAS: Machine learning 'causing science crisis'](https://www.bbc.com/news/science-environment-47267081)
++++
+<span style="font-size: 150%; color:#FF0000"> Volume </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#58FF33"> Veracity </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#F9FF33"> Variety </span> <!-- .element: class="fragment" -->
+<span style="font-size: 150%; color:#FFFFFF"> Velocity </span> <!-- .element: class="fragment" -->
 +++
 <span style="font-size: 200%; color:#F9FF33"> "Big Data ≠ Science" </span> 
 
