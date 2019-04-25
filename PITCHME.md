@@ -172,14 +172,10 @@ sUAS
 - Portability <!-- .element: class="fragment" --> **& _Scalability_** <!-- .element: class="fragment" -->
 
 <img src="assets/imagery/vertical_large.png" width="200"> 
-
 +++
-
-### Deciding which UAV processing and analysis software to use?
+##### WHICH SfM sUAS SOFTWARE??
 <img src="assets/imagery/dreaming.png" width="500">
-
 +++
-
 <img src="https://pbs.twimg.com/media/Czf37xpWIAIc1-M.jpg" height="75">
 <img src="https://www.integraldrones.com.au/wp-content/uploads/2016/06/Drone-deploy-image-2.jpg" height="75">
 <img src="http://store.jdrones.com/v/vspfiles/photos/swpix4dpro01-2.jpg" height="75">
@@ -189,45 +185,35 @@ sUAS
 <img src="http://jttaylor.net/gis/drone2map/images/drone2map-icon.jpg" height="75">
 <img src="http://www.customerbliss.com/wp-content/uploads/2016/06/Esri-Logo-Compact.png" height="75">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/1280px-QGIS_logo%2C_2017.svg.png" height="75">
-
+##### SERVICES
 <img src="https://www.logolynx.com/images/logolynx/11/11176029fe5b1cb338bc7cc437aee68d.png" height="75">
 <img src="https://nordicapis.com/wp-content/uploads/Azure-logo.png" height="75">
 <img src="http://www.thatlazyadmin.com/wp-content/uploads/2017/09/google-cloud-logo.png" height="75">
-
 +++
-
 ## Working with sUAS data in Cyberinfrastructure
-
-<img src="assets/imagery/calliope_logo.png" width="400">
-
+<img src="assets/imagery/calliope_logo.png" width="500">
 +++
-
 <img src="assets/imagery/sUAS_pipeline.jpg" width="1200">
-
 +++
-
 <img src="assets/imagery/workflow_calliope_clowder.png" width="1200">
+
+---?image=assets/imagery/ICB-CIBR-flow.jpeg
 
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
 # Have Workflow, Will Travel
 
 +++
-
 <img src="assets/imagery/SfM-MVS-Clowder.jpg" width="1200">
-
 +++
-
 <span style="font-weight: bold; font-size: 150%; color:#FF0000">Graphical User Interfaces </span>
  
 - Need more computing power than a laptop </span>
 - Cannot afford to buy a $5,000 workstation </span>
 
 ---?image=assets/imagery/dockerhub_ubuntu_xfce.png
-
 ---?image=assets/imagery/metashape.jpg
 
 +++
-
 <span style="font-weight: bold; font-size: 150%; color:#F0FF00"> Power Users </span>
 
 - Interest in scaling workflow beyond the laptop / desktop onto HPC and Cloud </span>
