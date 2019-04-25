@@ -92,23 +92,18 @@ Cyberinfrastructure
 sUAS
 @snapend
 +++
+---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
+<span style="font-size: 150%; color:#FFFFFF"> Big Data: useless or transformative? </span>
 
-## Big Data: useless or transformative?
-
++++
+## NEWS ARTICLES
 [How big data has created a crisis in Science](https://www.realclearscience.com/articles/2018/12/24/how_big_data_has_created_a_big_crisis_in_science_110838.html)
 
-<span style="font-size: 150%; color:#F9FF33"> "Big Data ≠ Science" </span> 
-
-<span style="font-size: 80%; color:#FF0000"> -- Anonymous Senior USGS Researcher </span>
-
 +++
+<span style="font-size: 200%; color:#F9FF33"> "Big Data ≠ Science" </span> 
 
-<img src="http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png" width="900">
-
-@snap[south] Source: Matt Turck, 2018, http://mattturck.com 
-@snapend
-
-+++
+<span style="font-size: 120%; color:#FF0000"> -- Anonymous Senior USGS Researcher </span>
+---?image=http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png
 
 <span style="font-size: 100%; color:#F9FF33"> Big Data </span>
     <span style="font-size: 80%; color:#FF0000"> (Binary & Unstructured) </span>
