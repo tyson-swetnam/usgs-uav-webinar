@@ -157,7 +157,7 @@ sUAS
  <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
 
 ---?image=https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif
-<span style="font-weight: bold; font-size: 250%; color:#FFFFFF"> NOT YOUR LAPTOP OR DESKTOP </span>
+<span style="font-weight: bold; font-size: 250%; color:##FFFF00"> NOT YOUR LAPTOP OR DESKTOP </span>
 
 +++ 
 
