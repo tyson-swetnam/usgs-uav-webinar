@@ -221,7 +221,7 @@ sUAS
 - Interest in scaling workflow beyond the laptop / desktop onto HPC and Cloud </span>
 - Need to run 10s to 1,000s of jobs (sUAS flights) across a large geographic area </span>
 
----
+---?image=assets/iamgery/agisoft_network.png
 
 ### The "Bring Your Own Data" Approach
 
