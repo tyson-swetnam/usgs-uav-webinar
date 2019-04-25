@@ -223,6 +223,7 @@ sUAS
 - Need to run 10s to 1,000s of jobs (sUAS flights) across a large geographic area </span>
 
 ---?image=assets/imagery/agisoft_network.png
++++
 
 ### The "Bring Your Own Data" Approach
 
@@ -311,7 +312,7 @@ Work with your data interactively in your favorite IDE
 
 <img src="assets/imagery/vice_diagram_small.png" width="800">
 
----?image=assets/imagery/qgis_vice.png
+---?image=assets/imagery/qgis_vice.jpg
 
 ---
 ### [DataCommons](http://datacommons.cyverse.org/)
